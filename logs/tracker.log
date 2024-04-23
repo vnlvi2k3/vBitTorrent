@@ -1,0 +1,324 @@
+[17:03:53] ========================================
+Tracker started at ['localhost', 8080]
+========================================
+[17:06:23] ========================================
+Tracker started at ['localhost', 8080]
+========================================
+[17:07:51] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[17:08:13] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[17:08:35] Peer(s) [2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:08:57] Peer(s) [2] is in torrent and peer(s) [3] have left the torrent.
+[17:09:19] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[17:10:25] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[17:10:47] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[17:11:09] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[17:11:15] Peer 1 registered as owner of file CHAP5.pdf
+[17:11:31] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[17:11:53] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[17:12:15] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[17:12:37] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[17:12:59] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[17:13:21] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[17:39:58] ========================================
+Tracker started at ['localhost', 8080]
+========================================
+[17:40:17] Peer 1 registered as owner of file CHAP5.pdf
+[17:40:20] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[17:40:42] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[17:40:43] Peer 2 requested file CHAP5.pdf
+[17:41:04] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[17:41:26] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[17:41:37] Peer 3 requested file CHAP5.pdf
+[17:41:48] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:42:10] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:42:32] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:42:54] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:43:16] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:43:38] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:44:00] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:44:22] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:44:44] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:45:06] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:45:18] Peer 1 registered as owner of file VID1.mkv
+[17:45:28] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[17:45:40] Peer 3 requested file VID1.mkv
+[17:45:50] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:46:12] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:46:34] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:46:56] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:47:18] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:47:40] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[17:48:02] Peer(s) [] is in torrent and peer(s) [3] have left the torrent.
+[17:48:24] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[17:49:08] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:49:25] Peer 3 requested file 
+[17:49:30] Peer 3 requested file VID1.mkv
+[17:49:30] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:49:40] Peer 3 requested file VID1.mkv
+[17:49:52] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:49:56] Peer 3 requested file CHAP5.pdf
+[17:50:14] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:50:20] Peer 1 registered as owner of file CHAP5.pdf
+[17:50:27] Peer 2 registered as owner of file CHAP5.pdf
+[17:50:34] Peer 3 requested file CHAP5.pdf
+[17:50:36] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:50:58] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:51:42] ========================================
+Tracker started at ['localhost', 8080]
+========================================
+[17:51:48] Peer 3 registered as owner of file CHAP5.pdf
+[17:52:04] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:52:26] Peer(s) [] is in torrent and peer(s) [3] have left the torrent.
+[17:52:48] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[17:53:10] Peer(s) [] is in torrent and peer(s) [3] have left the torrent.
+[17:53:32] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[17:53:54] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[23:56:41] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[23:57:03] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[23:57:25] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[23:57:47] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[23:58:09] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:58:22] Peer 2 requested file VID1.mkv
+[23:58:31] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:58:53] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:59:15] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[23:59:24] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[23:59:46] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:59:51] Peer 2 requested file VID1.mkv
+[00:00:08] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[00:00:09] Peer 1 registered as owner of file VID1.mkv
+[00:00:15] Peer 2 requested file VID1.mkv
+[00:00:30] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:00:52] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:01:14] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:01:36] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:01:58] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:02:20] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:02:42] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:03:04] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:03:26] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:03:48] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:04:10] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:04:20] Peer 2 requested file VID1.mkv
+[00:04:32] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:04:54] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:05:16] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:05:38] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:06:00] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:06:13] Peer 1 registered as owner of file VID1.mkv
+[00:06:22] Peer(s) [] is in torrent and peer(s) [3] have left the torrent.
+[00:06:44] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[00:07:06] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[00:07:28] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[00:07:50] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[00:08:12] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[00:08:34] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[00:08:56] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[00:09:18] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[00:09:24] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:09:28] Peer 1 registered as owner of file VID1.mkv
+[00:09:46] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:10:08] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:10:30] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:10:52] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:11:14] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:11:36] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:11:55] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:12:00] Peer 1 registered as owner of file VID1.mkv
+[00:12:05] Peer 2 requested file VID1.mkv
+[00:12:17] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:12:39] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:13:01] Peer(s) [2] is in torrent and peer(s) [1] have left the torrent.
+[00:13:23] Peer(s) [2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:13:45] Peer(s) [2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:14:07] Peer(s) [2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:14:29] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:14:38] Peer 1 registered as owner of file VID1.mkv
+[00:14:41] Peer 2 requested file VID1.mkv
+[00:14:51] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:15:13] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:15:35] Peer(s) [1, 2, 3, 4] is in torrent and peer(s) [] have left the torrent.
+[00:15:57] Peer(s) [1, 2, 3] is in torrent and peer(s) [4] have left the torrent.
+[00:16:19] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:16:41] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:17:03] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:17:25] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[00:17:47] Peer(s) [2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:18:09] Peer(s) [2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:18:31] Peer(s) [2, 3, 4] is in torrent and peer(s) [] have left the torrent.
+[00:18:53] Peer(s) [2, 3, 4] is in torrent and peer(s) [] have left the torrent.
+[00:19:30] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:19:35] Peer 1 registered as owner of file VID1.mkv
+[00:19:41] Peer 2 requested file VID1.mkv
+[00:19:52] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[00:20:14] Peer(s) [1, 2, 3, 4] is in torrent and peer(s) [] have left the torrent.
+[00:20:36] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[00:20:58] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[00:21:20] Peer(s) [3, 4] is in torrent and peer(s) [] have left the torrent.
+[00:21:42] Peer(s) [3, 4] is in torrent and peer(s) [] have left the torrent.
+[00:22:04] Peer(s) [3, 4] is in torrent and peer(s) [] have left the torrent.
+[00:22:26] Peer(s) [3, 4] is in torrent and peer(s) [] have left the torrent.
+[00:22:45] Peer 1 registered as owner of file VID1.mkv
+[00:22:48] Peer(s) [1, 2, 3, 4] is in torrent and peer(s) [] have left the torrent.
+[00:22:52] Peer 2 requested file VID1.mkv
+[00:23:10] Peer(s) [3, 4] is in torrent and peer(s) [1] have left the torrent.
+[00:23:32] Peer(s) [2, 3, 4] is in torrent and peer(s) [] have left the torrent.
+[00:23:46] Peer 1 registered as owner of file VID1.mkv
+[00:23:49] Peer 2 requested file VID1.mkv
+[00:23:54] Peer(s) [1, 2, 3, 4] is in torrent and peer(s) [] have left the torrent.
+[00:24:16] Peer(s) [2, 3, 4] is in torrent and peer(s) [1] have left the torrent.
+[00:24:38] Peer(s) [2, 3, 4] is in torrent and peer(s) [] have left the torrent.
+[00:25:00] Peer(s) [2, 3, 4] is in torrent and peer(s) [] have left the torrent.
+[00:25:17] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:25:21] Peer 1 registered as owner of file VID1.mkv
+[00:25:26] Peer 2 requested file VID1.mkv
+[00:25:26] LEECHINGG
+[00:25:26] LEECHINGG1111
+[00:25:58] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:26:05] Peer 1 registered as owner of file VID1.mkv
+[00:26:09] Peer 2 requested file VID1.mkv
+[00:26:09] LEECHINGG
+[00:26:09] LEECHINGG1111
+[00:26:20] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:26:44] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:26:47] Peer 1 registered as owner of file VID1.mkv
+[00:26:51] Peer 2 requested file VID1.mkv
+[00:26:51] LEECHINGG222
+[00:27:06] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:27:28] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[00:27:50] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[00:28:31] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:28:33] Peer 1 registered as owner of file VID1.mkv
+[00:28:35] Peer 2 requested file VID1.mkv
+[00:28:35] Peer 2 requested file VID1.mkv
+[00:28:35] Peer 2 registered as leecher of file VID1.mkv
+[00:28:49] Peer 1 registered as owner of file VID1.mkv
+[00:28:53] Peer 2 requested file VID1.mkv
+[00:28:53] Peer 2 requested file VID1.mkv
+[00:28:53] Peer 2 registered as leecher of file VID1.mkv
+[00:28:53] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:29:15] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[00:29:31] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:29:36] Peer 1 registered as owner of file VID1.mkv
+[00:29:40] Peer 2 requested file VID1.mkv
+[00:29:40] Peer 2 requested file VID1.mkv
+[00:29:40] Peer 2 registered as leecher of file VID1.mkv
+[00:29:53] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:30:15] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[00:30:37] Peer(s) [2] is in torrent and peer(s) [] have left the torrent.
+[00:30:59] Peer(s) [2] is in torrent and peer(s) [] have left the torrent.
+[00:31:21] Peer(s) [2] is in torrent and peer(s) [] have left the torrent.
+[00:31:38] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:31:47] Peer 1 registered as owner of file VID1.mkv
+[00:31:47] Peer 1 is owner of file VID1.mkv
+[00:31:50] Peer 2 requested file VID1.mkv
+[00:31:50] Peer 2 requested file VID1.mkv
+[00:31:50] Peer 1 is owner of file VID1.mkv
+[00:32:00] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:32:22] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:32:27] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:32:37] Peer 1 registered as owner of file VID1.mkv
+[00:32:39] Peer 2 requested file VID1.mkv
+[00:32:39] Peer 2 requested file VID1.mkv
+[00:32:49] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:33:11] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[00:33:33] Peer(s) [2] is in torrent and peer(s) [] have left the torrent.
+[00:33:55] Peer(s) [2] is in torrent and peer(s) [] have left the torrent.
+[00:34:01] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:34:08] Peer 1 registered as owner of file VID1.mkv
+[00:34:11] Peer 2 requested file VID1.mkv
+[00:34:11] Peer 2 requested file VID1.mkv
+[00:34:23] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:34:45] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[00:35:07] Peer(s) [2] is in torrent and peer(s) [] have left the torrent.
+[00:35:29] Peer(s) [2] is in torrent and peer(s) [] have left the torrent.
+[00:35:51] Peer(s) [2] is in torrent and peer(s) [] have left the torrent.
+[00:36:13] Peer(s) [2] is in torrent and peer(s) [] have left the torrent.
+[00:36:35] Peer(s) [2] is in torrent and peer(s) [] have left the torrent.
+[00:36:39] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:36:46] Peer 1 registered as owner of file VID1.mkv
+[00:36:49] Peer 2 requested file VID1.mkv
+[00:36:49] Peer 2 requested file VID1.mkv
+[00:37:01] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:39:28] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:39:35] Peer 1 registered as owner of file VID1.mkv
+[00:39:38] Peer 2 requested file VID1.mkv
+[00:39:38] Peer 2 requested file VID1.mkv
+[00:39:50] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:40:12] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[00:40:38] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:40:40] Peer 1 registered as owner of file VID1.mkv
+[00:40:51] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:40:54] Peer 1 registered as owner of file VID1.mkv
+[00:40:58] Peer 2 requested file VID1.mkv
+[00:40:58] Peer 2 requested file VID1.mkv
+[00:41:13] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:42:29] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:42:36] Peer 1 registered as owner of file VID1.mkv
+[00:42:43] Peer 2 requested file VID1.mkv
+[00:42:43] Peer 2 requested file VID1.mkv
+[00:42:51] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:43:13] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[00:43:44] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:43:49] Peer 1 registered as owner of file VID1.mkv
+[00:43:54] Peer 2 requested file VID1.mkv
+[00:43:54] Peer 2 requested file VID1.mkv
+[00:44:06] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:44:28] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[00:44:50] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[00:45:30] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:45:33] Peer 1 registered as owner of file VID1.mkv
+[00:45:39] Peer 2 requested file VID1.mkv
+[00:45:39] Peer 2 requested file VID1.mkv
+[00:45:52] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[00:46:14] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[00:46:36] Peer(s) [2] is in torrent and peer(s) [] have left the torrent.
+[00:47:02] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[00:47:10] Peer 1 registered as owner of file VID1.mkv
+[00:47:15] Peer 2 requested file VID1.mkv
+[00:47:15] Peer 2 requested file VID1.mkv
+[00:47:24] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
