@@ -44,5 +44,5 @@ torrent -mode scrape <FILE_NAME>
 ```
 - To exit the peer session
 ```bash
-torrent -mode exit <FILE_NAME>
+torrent -mode exit
 ```
