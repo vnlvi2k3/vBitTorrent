@@ -352,7 +352,9 @@ def run(args):
             thread.setDaemon(True)
             thread.start()
         elif mode == 'scrape':
-            peer.set_scrape_mode(filename)
+            thread = Thread(target=peer.set_scrape_mode, args=(filename,))
+            thread.setDaemon(True)
+            thread.start()
         elif mode == 'exit':
             peer.exit_torrent()
             exit(0)
