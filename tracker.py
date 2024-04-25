@@ -192,20 +192,68 @@ class Tracker:
         while True:
             data, addr = self.tracker_socket.recvfrom(config.constants.BUFFER_SIZE)
             thread = Thread(target=self.handle_peer_request, args=(data, addr))
-            thread.start()
+            thread.setDaemon(True)
+            thread.start()              
 
     def run(self):
         log_content = f"========================================\nTracker started at {config.constants.TRACKER_ADDR}\n==================================================="
         log(peer_id = 0, content = log_content, is_tracker = True)
-        thread = Thread(target=self.listen())
+        thread = Thread(target=self.listen)
         thread.daemon = True
         thread.start()
-        thread.join() # Comment this out if listen is intended to run indefinitely
+        # thread.join() # Comment this out if listen is intended to run indefinitely
+
+        print(f"ENTER YOUR COMMANDS HERE:")
+        while True:
+            command = input()
+            mode, filename = parse_command(command)
+            
+            if mode == 'list':
+                # Open the JSON file
+                files_info_path = config.directory.tracker_db_dir + "files_info.json"
+                with open(files_info_path, 'r') as file:
+                    data = json.load(file)
+
+                # Print the keys
+                for key in data.keys():
+                    print(key)
+
+            elif mode == 'fileinfo':
+                files_info_path = config.directory.tracker_db_dir + "files_info.json"
+                with open(files_info_path, 'r') as file:
+                    data = json.load(file)
+                if filename in data:
+                    for peer_info in data[filename]:
+                        peer_info_dict = json.loads(peer_info)
+                        print(f"peer_id: {peer_info_dict['peer_id']}, ip: {peer_info_dict['addr'][0]}, port: {peer_info_dict['addr'][1]}, status: {peer_info_dict['status']}")
+                else:
+                    print(f"No information found for file: {filename}")
+            elif mode == 'peerinfo':
+                # Read and parse files_info.json
+                files_info_path = config.directory.tracker_db_dir + "files_info.json"
+                with open(files_info_path, 'r') as f:
+                    files_info = json.load(f)
+
+                # Read and parse peers_info.json
+                peer_info_path = config.directory.tracker_db_dir + "peers_info.json"
+                with open(peer_info_path, 'r') as f:
+                    peers_info = json.load(f)
+
+                # Create a set to store the tuples
+                data_set = set()
+
+                # Iterate over the data from files_info.json
+                for file, peers in files_info.items():
+                    for peer in peers:
+                        # Parse the peer data
+                        peer_data = json.loads(peer)
+                        # Create a tuple and add it to the set
+                        data_set.add((peer_data['peer_id'], peer_data['addr'][0], peer_data['addr'][1], peers_info.get(f'peer_{peer_data["peer_id"]}', -1)))
+
+                for data in data_set:
+                    print(f"peer_id: {data[0]}, ip: {data[1]}, port: {data[2]}, score: {data[3]}")
+                #print(data_set)
 
 if __name__ == "__main__":
     tracker = Tracker()
     tracker.run()
-
-
-
-
