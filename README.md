@@ -1,11 +1,6 @@
 # Peer-to-Peer BitTorrent Simulation
 
-## Overview
-
-This project simulates a peer-to-peer BitTorrent network. To run this project, you need to open multiple terminals to simulate the interaction between peers and a tracker.
-![image](https://github.com/vnlvi2k3/vBittorrent/assets/139733764/c84e2f5f-480a-42ac-b098-f2694947e07e)
-
-# BitTorrent Overview
+## BitTorrent Overview
 
 BitTorrent is a peer-to-peer (P2P) file sharing protocol used for distributing large amounts of data over the Internet. Unlike traditional client-server models, BitTorrent allows users to download and upload portions of a file simultaneously, leveraging the collective bandwidth of all peers involved.
 
@@ -25,6 +20,11 @@ While BitTorrent itself is a legal technology, it's crucial to respect copyright
 
 ### Benefits:
 BitTorrent is efficient for distributing large files, reduces server bandwidth costs, and offers robustness against network failures.
+
+This project simulates a peer-to-peer BitTorrent network. To run this project, you need to open multiple terminals to simulate the interaction between peers and a tracker.
+
+
+![image](https://github.com/vnlvi2k3/vBittorrent/assets/139733764/c84e2f5f-480a-42ac-b098-f2694947e07e)
 
 
 ## Prerequisites
