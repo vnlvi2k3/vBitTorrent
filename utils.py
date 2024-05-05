@@ -11,7 +11,11 @@ used_ports = set()
 def set_socket(port):
     sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-    sock.bind(('localhost', port))
+
+    hostname = socket.gethostname()
+    ip_address = socket.gethostbyname(hostname)
+    sock.bind((ip_address, port))
+
     used_ports.add(port)
 
     return sock

@@ -15,6 +15,10 @@ class JsonToObject(object):
     def __init__(self, dict_):
         self.__dict__.update(dict_)
 
+def get_loacal_ip():
+    import socket
+    return socket.gethostbyname(socket.gethostname())
+
 CFG = {
     "directory": {
         "logs_dir": "logs/",
@@ -23,13 +27,13 @@ CFG = {
     },
     "constants": {
         "AVAILABLE_PORTS_RANGE": (1024, 65535),
-        "TRACKER_ADDR": ('localhost', 8080),
+        "TRACKER_ADDR": ("192.168.1.9", 8080),
         "MAX_HTTP_BODY_SIZE": 65536,
         "BUFFER_SIZE": 8192,
         "CHUNK_PIECES_SIZE": 4096,
         "MAX_CONCURRENT_REQUESTS": 3,
-        "PEER_TIME_INTERVAL": 20,
-        "TRACKER_TIME_INTERVAL": 22,
+        "PEER_TIME_INTERVAL": 30,
+        "TRACKER_TIME_INTERVAL": 32,
     },
     "tracker_requests_mode": {
         "REGISTER": 0,

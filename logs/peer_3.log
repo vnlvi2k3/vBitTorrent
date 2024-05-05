@@ -185,3 +185,205 @@ Peer 3 started just right now
 [20:38:47] I am informing the tracker that I am still alive.
 [20:39:07] I am informing the tracker that I am still alive.
 [20:39:27] I am informing the tracker that I am still alive.
+[07:55:04] ========================================
+Peer 3 started just right now
+===================================================
+[07:55:04] You have entered the torrent
+[07:55:04] I am informing the tracker that I am still alive.
+[07:55:24] I am informing the tracker that I am still alive.
+[07:55:32] You have asked the tracker to SCRAPE the file CHAP5.pdf
+[07:55:32] Scrape results for file CHAP5.pdf: Number of seeders: 0, Number of leechers: 0
+[07:55:44] I am informing the tracker that I am still alive.
+[07:56:04] I am informing the tracker that I am still alive.
+[07:56:05] You have asked the tracker to SCRAPE the file CHAP5.pdf
+[07:56:05] Scrape results for file CHAP5.pdf: Number of seeders: 2, Number of leechers: 0
+[07:56:20] You have exited the torrent
+[08:02:39] ========================================
+Peer 3 started just right now
+===================================================
+[08:02:39] You have entered the torrent
+[08:02:39] I am informing the tracker that I am still alive.
+[08:02:59] I am informing the tracker that I am still alive.
+[08:03:19] I am informing the tracker that I am still alive.
+[08:03:39] I am informing the tracker that I am still alive.
+[08:03:58] ========================================
+Peer 3 started just right now
+===================================================
+[08:03:58] You have entered the torrent
+[08:03:58] I am informing the tracker that I am still alive.
+[08:04:18] I am informing the tracker that I am still alive.
+[08:04:38] I am informing the tracker that I am still alive.
+[08:04:58] I am informing the tracker that I am still alive.
+[08:05:18] I am informing the tracker that I am still alive.
+[08:05:38] I am informing the tracker that I am still alive.
+[08:05:58] I am informing the tracker that I am still alive.
+[08:06:18] I am informing the tracker that I am still alive.
+[08:08:16] ========================================
+Peer 3 started just right now
+===================================================
+[08:08:16] You have entered the torrent
+[08:08:16] I am informing the tracker that I am still alive.
+[08:08:36] I am informing the tracker that I am still alive.
+[08:08:56] I am informing the tracker that I am still alive.
+[08:09:16] I am informing the tracker that I am still alive.
+[08:09:36] I am informing the tracker that I am still alive.
+[08:09:56] I am informing the tracker that I am still alive.
+[08:10:16] I am informing the tracker that I am still alive.
+[08:10:36] I am informing the tracker that I am still alive.
+[08:10:51] You already have the file CHAP5.pdf
+[08:10:56] I am informing the tracker that I am still alive.
+[08:11:16] I am informing the tracker that I am still alive.
+[08:11:36] I am informing the tracker that I am still alive.
+[08:11:42] You are now DOWNLOADING the file CHAP5.pdf
+[08:11:42] You are going to download the file CHAP5.pdf from [1, 2]
+[08:11:42] The size of the file CHAP5.pdf is 6389067 bytes
+[08:11:42] I sent request for a chunk of file CHAP5.pdf to peer 1
+[08:11:43] All chunks of file CHAP5.pdf have been downloaded, but they must be REASSEMBLED
+[08:11:43] All chunks of file CHAP5.pdf have been SORTED, they are almost ready to be REASSEMBLED
+[08:11:43] The file CHAP5.pdf has been downloaded and saved
+[08:11:56] I am informing the tracker that I am still alive.
+[08:12:20] ========================================
+Peer 3 started just right now
+===================================================
+[08:12:20] You have entered the torrent
+[08:12:20] I am informing the tracker that I am still alive.
+[08:12:40] I am informing the tracker that I am still alive.
+[08:12:41] You are now in SEND mode
+[08:13:00] I am informing the tracker that I am still alive.
+[08:13:20] I am informing the tracker that I am still alive.
+[08:13:40] I am informing the tracker that I am still alive.
+[08:14:01] ========================================
+Peer 3 started just right now
+===================================================
+[08:14:01] You have entered the torrent
+[08:14:01] I am informing the tracker that I am still alive.
+[08:14:21] I am informing the tracker that I am still alive.
+[08:14:41] I am informing the tracker that I am still alive.
+[08:14:43] You are now DOWNLOADING the file ASS1.pdf
+[08:14:43] You are going to download the file ASS1.pdf from [2, 1]
+[08:14:43] The size of the file ASS1.pdf is 209095 bytes
+[08:14:43] I sent request for a chunk of file ASS1.pdf to peer 1
+[08:14:43] I sent request for a chunk of file ASS1.pdf to peer 2
+[08:14:43] All chunks of file ASS1.pdf have been downloaded, but they must be REASSEMBLED
+[08:14:43] All chunks of file ASS1.pdf have been SORTED, they are almost ready to be REASSEMBLED
+[08:14:43] The file ASS1.pdf has been downloaded and saved
+[08:15:01] I am informing the tracker that I am still alive.
+[08:15:21] I am informing the tracker that I am still alive.
+[08:15:41] I am informing the tracker that I am still alive.
+[08:16:01] I am informing the tracker that I am still alive.
+[08:16:21] I am informing the tracker that I am still alive.
+[08:16:41] I am informing the tracker that I am still alive.
+[08:17:01] I am informing the tracker that I am still alive.
+[08:23:05] ========================================
+Peer 3 started just right now
+===================================================
+[08:23:05] You have entered the torrent
+[08:23:05] I am informing the tracker that I am still alive.
+[08:23:30] I am informing the tracker that I am still alive.
+[08:23:55] I am informing the tracker that I am still alive.
+[08:23:59] You are now DOWNLOADING the file ASS1.pdf
+[08:23:59] You are going to download the file ASS1.pdf from [2]
+[08:24:31] ========================================
+Peer 3 started just right now
+===================================================
+[08:24:31] You have entered the torrent
+[08:24:31] I am informing the tracker that I am still alive.
+[08:24:56] I am informing the tracker that I am still alive.
+[08:25:21] I am informing the tracker that I am still alive.
+[08:25:30] You are now DOWNLOADING the file CHAP5.pdf
+[08:25:46] I am informing the tracker that I am still alive.
+[08:25:48] You are now DOWNLOADING the file CHAP5.pdf
+[08:26:20] ========================================
+Peer 3 started just right now
+===================================================
+[08:26:20] You have entered the torrent
+[08:26:20] I am informing the tracker that I am still alive.
+[08:27:10] ========================================
+Peer 3 started just right now
+===================================================
+[08:27:10] You have entered the torrent
+[08:27:10] I am informing the tracker that I am still alive.
+[08:27:35] I am informing the tracker that I am still alive.
+[08:27:46] You are now DOWNLOADING the file v.mkv
+[08:27:46] You are going to download the file v.mkv from [1]
+[08:28:00] I am informing the tracker that I am still alive.
+[08:28:23] ========================================
+Peer 3 started just right now
+===================================================
+[08:28:23] You have entered the torrent
+[08:28:23] I am informing the tracker that I am still alive.
+[08:28:58] ========================================
+Peer 3 started just right now
+===================================================
+[08:28:58] You have entered the torrent
+[08:28:58] I am informing the tracker that I am still alive.
+[08:29:23] I am informing the tracker that I am still alive.
+[08:29:37] You are now DOWNLOADING the file v.mkv
+[08:29:37] You are going to download the file v.mkv from [1, 2]
+[08:29:37] The size of the file v.mkv is 1548103894 bytes
+[08:29:37] I sent request for a chunk of file v.mkv to peer 1
+[08:29:37] I sent request for a chunk of file v.mkv to peer 2
+[08:29:48] I am informing the tracker that I am still alive.
+[08:30:13] I am informing the tracker that I am still alive.
+[08:30:38] I am informing the tracker that I am still alive.
+[08:31:18] ========================================
+Peer 3 started just right now
+===================================================
+[08:31:18] You have entered the torrent
+[08:31:18] I am informing the tracker that I am still alive.
+[08:31:21] You are now DOWNLOADING the file v.mkv
+[08:31:21] You are going to download the file v.mkv from [2, 1]
+[08:31:39] ========================================
+Peer 3 started just right now
+===================================================
+[08:31:39] You have entered the torrent
+[08:31:39] I am informing the tracker that I am still alive.
+[08:31:45] You are now DOWNLOADING the file v.mkv
+[08:31:45] You are going to download the file v.mkv from [1]
+[08:31:45] The size of the file v.mkv is 1548103894 bytes
+[08:31:45] I sent request for a chunk of file v.mkv to peer 1
+[09:14:25] ========================================
+Peer 3 started just right now
+===================================================
+[11:01:27] ========================================
+Peer 3 started just right now
+===================================================
+[11:01:27] You have entered the torrent
+[11:01:27] I am informing the tracker that I am still alive.
+[11:01:47] You are now DOWNLOADING the file ASS1.pdf
+[11:01:47] You are going to download the file ASS1.pdf from [1]
+[11:01:47] The size of the file ASS1.pdf is 209095 bytes
+[11:01:47] I sent request for a chunk of file ASS1.pdf to peer 1
+[11:01:47] All chunks of file ASS1.pdf have been downloaded, but they must be REASSEMBLED
+[11:01:47] All chunks of file ASS1.pdf have been SORTED, they are almost ready to be REASSEMBLED
+[11:01:47] The file ASS1.pdf has been downloaded and saved
+[11:01:52] I am informing the tracker that I am still alive.
+[11:02:17] I am informing the tracker that I am still alive.
+[11:02:42] I am informing the tracker that I am still alive.
+[11:03:07] I am informing the tracker that I am still alive.
+[11:03:32] I am informing the tracker that I am still alive.
+[11:03:57] I am informing the tracker that I am still alive.
+[11:04:22] I am informing the tracker that I am still alive.
+[11:04:47] I am informing the tracker that I am still alive.
+[11:05:12] I am informing the tracker that I am still alive.
+[11:05:37] I am informing the tracker that I am still alive.
+[11:06:02] I am informing the tracker that I am still alive.
+[11:06:27] I am informing the tracker that I am still alive.
+[11:06:52] I am informing the tracker that I am still alive.
+[11:07:39] ========================================
+Peer 3 started just right now
+===================================================
+[11:07:39] You have entered the torrent
+[11:07:39] I am informing the tracker that I am still alive.
+[11:08:04] I am informing the tracker that I am still alive.
+[11:08:07] You are now DOWNLOADING the file 
+[11:08:07] No other peer has the file 
+[11:08:11] You are now DOWNLOADING the file CHAP5.pdf
+[11:08:11] You are going to download the file CHAP5.pdf from [1]
+[11:08:11] The size of the file CHAP5.pdf is 6389067 bytes
+[11:08:11] I sent request for a chunk of file CHAP5.pdf to peer 1
+[11:08:13] All chunks of file CHAP5.pdf have been downloaded, but they must be REASSEMBLED
+[11:08:13] All chunks of file CHAP5.pdf have been SORTED, they are almost ready to be REASSEMBLED
+[11:08:13] The file CHAP5.pdf has been downloaded and saved
+[11:08:29] I am informing the tracker that I am still alive.
+[11:08:54] I am informing the tracker that I am still alive.

@@ -1,0 +1,38 @@
+[11:57:45] ========================================
+Peer 9 started just right now
+===================================================
+[11:57:45] You have entered the torrent
+[11:57:45] I am informing the tracker that I am still alive.
+[11:58:10] I am informing the tracker that I am still alive.
+[11:58:35] I am informing the tracker that I am still alive.
+[11:58:40] You are now DOWNLOADING the file CHAP5.pdf
+[11:58:40] You are going to download the file CHAP5.pdf from [2, 1, 8]
+[11:58:40] The size of the file CHAP5.pdf is 6389067 bytes
+[11:58:40] I sent request for a chunk of file CHAP5.pdf to peer 2
+[11:58:40] I sent request for a chunk of file CHAP5.pdf to peer 1
+[11:58:40] I sent request for a chunk of file CHAP5.pdf to peer 8
+[11:58:41] All chunks of file CHAP5.pdf have been downloaded, but they must be REASSEMBLED
+[11:58:41] All chunks of file CHAP5.pdf have been SORTED, they are almost ready to be REASSEMBLED
+[11:58:41] The file CHAP5.pdf has been downloaded and saved
+[11:59:00] I am informing the tracker that I am still alive.
+[11:59:25] I am informing the tracker that I am still alive.
+[11:59:31] You are now DOWNLOADING the file v.mkv
+[11:59:31] You are going to download the file v.mkv from [2, 1]
+[11:59:50] I am informing the tracker that I am still alive.
+[12:05:38] ========================================
+Peer 9 started just right now
+===================================================
+[12:05:38] You have entered the torrent
+[12:05:38] I am informing the tracker that I am still alive.
+[12:06:03] I am informing the tracker that I am still alive.
+[12:06:28] I am informing the tracker that I am still alive.
+[12:28:53] ========================================
+Peer 9 started just right now
+===================================================
+[12:28:53] You have entered the torrent
+[12:28:53] I am informing the tracker that I am still alive.
+[12:29:21] You are now DOWNLOADING the file v.mkv
+[12:29:21] You are going to download the file v.mkv from [1]
+[12:29:21] The size of the file v.mkv is 1548103894 bytes
+[12:29:21] I sent request for a chunk of file v.mkv to peer 1
+[12:29:23] I am informing the tracker that I am still alive.

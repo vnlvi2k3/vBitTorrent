@@ -7,14 +7,16 @@ import time
 from itertools import groupby
 import mmap 
 import warnings
+from tqdm import tqdm
 warnings.filterwarnings("ignore")
 
-from configs import CFG, Config
+from configs import *
 config = Config.from_json(CFG)
 from HTTPCommunication import Message, Peer2Tracker, Peer2Peer, ChunkSharing
 from request import HTTPRequest
 
 next_call = time.time()
+source_ip = get_loacal_ip()
 
 class Peer:
     def __init__(self, peer_id, rcv_port, send_port):
@@ -27,7 +29,9 @@ class Peer:
 
     def send_segment(self, sock, data, addr):
         ip, dest_port = addr
-        segment = HTTPRequest(src_port = sock.getsockname()[1],
+        segment = HTTPRequest(src_ip=source_ip,
+                                dest_ip = ip,
+                                src_port = sock.getsockname()[1],
                                 dest_port = dest_port,
                                 data = data)
         encryted_data = segment.data
@@ -46,24 +50,28 @@ class Peer:
             f.flush()
             f.close()
 
-    def send_chunk(self, filename, rng, dest_peer_id, dest_port):
+    def send_chunk(self, filename, rng, dest_peer_id, addr):
         file_path = f"{config.directory.peer_files_dir}peer_{self.peer_id}/{filename}"
         chunk_pieces = self.split_file_to_chunks(file_path, rng)
 
         temp_port = generate_random_port()
         temp_sock = set_socket(temp_port)
-        for idx, chunk in enumerate(chunk_pieces):
-            msg = ChunkSharing(src_peer_id = self.peer_id,
-                                dest_peer_id = dest_peer_id,
-                                filename = filename,
-                                range = rng,
-                                idx = idx,
-                                chunk = chunk)
-            log_content = f"The chunk {idx}/{len(chunk_pieces)} of file {filename} is being sent to peer {dest_peer_id}"
-            log(peer_id = self.peer_id, content = log_content)
-            self.send_segment(sock=temp_sock,
-                              data=Message.encode(msg),
-                              addr=('localhost', dest_port))
+        log_content = f"Peer {self.peer_id} is sending {len(chunk_pieces)} chunks to peer {dest_peer_id}"
+        log(peer_id = self.peer_id, content = log_content)
+        with tqdm(total = len(chunk_pieces)) as pbar:
+            for idx, chunk in enumerate(chunk_pieces):
+                msg = ChunkSharing(src_peer_id = self.peer_id,
+                                    dest_peer_id = dest_peer_id,
+                                    filename = filename,
+                                    range = rng,
+                                    idx = idx,
+                                    chunk = chunk)
+                # log_content = f"The chunk {idx}/{len(chunk_pieces)} of file {filename} is being sent to peer {dest_peer_id}"
+                # log(peer_id = self.peer_id, content = log_content)
+                self.send_segment(sock=temp_sock,
+                                data=Message.encode(msg),
+                                addr=addr)
+                pbar.update(1)
         #Tell tje neighbour peer that sending has finished (idx = -1)
         msg = ChunkSharing(src_peer_id = self.peer_id,
                             dest_peer_id = dest_peer_id,
@@ -72,7 +80,7 @@ class Peer:
                             idx = -1)
         self.send_segment(sock=temp_sock,
                           data=Message.encode(msg),
-                          addr=('localhost', dest_port))
+                          addr=addr)
         free_socket(temp_sock)
     
     def handle_requests(self, msg, addr):
@@ -84,7 +92,7 @@ class Peer:
             self.send_chunk(filename=msg["filename"],
                             rng=msg["range"],
                             dest_peer_id=msg["src_peer_id"],
-                            dest_port=addr[1])
+                            addr=addr)
     
     def listen(self):
         while True:
@@ -207,6 +215,7 @@ class Peer:
         #Create a thread for each owner to download respective chunk from it
         self.downloaded_files[filename] = []
         neighboring_peers_threads = []
+        # with tqdm(total = file_size) as pbar:
         for idx, owner in enumerate(to_be_used_owners):
             thread = Thread(target=self.receive_chunk, args=(filename, chunks_ranges[idx], owner))  
             thread.setDaemon(True)

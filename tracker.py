@@ -23,7 +23,9 @@ class Tracker:
 
     def send_segment(self, sock, data, addr):
         ip, dest_port = addr
-        segment = HTTPRequest(src_port = sock.getsockname()[1],
+        segment = HTTPRequest(src_ip=config.constants.TRACKER_ADDR[0],
+                                dest_ip = ip,
+                                src_port = sock.getsockname()[1],
                                 dest_port = dest_port,
                                 data = data)
         encryted_data = segment.data 
@@ -41,18 +43,17 @@ class Tracker:
 
         #if entry already in list as a leeacher, and the status is seeder, update the status to seeder
         found = False
-        current_owners = self.file_owners_list.copy()
-        for json_entry in current_owners[msg["filename"]]:
-            decode_entry = json.loads(json_entry)
-            if decode_entry["peer_id"] == msg["peer_id"] and decode_entry["status"] != status:
-                decode_entry["status"] = status
+        current_owners = [json.loads(entry) for entry in self.file_owners_list[msg["filename"]]]
+        for json_entry in current_owners:
+            if json_entry["peer_id"] == msg["peer_id"] and json_entry["status"] != status:
+                json_entry["status"] = status
                 found = True
                 break
         if not found:
             self.file_owners_list[msg['filename']].append(json.dumps(entry))
             self.file_owners_list[msg['filename']] = list(set(self.file_owners_list[msg['filename']]))
         else:
-            self.file_owners_list[msg["filename"]] = list(map(json.dumps, current_owners[msg["filename"]]))
+            self.file_owners_list[msg["filename"]] = [json.dumps(entry) for entry in current_owners]
 
         self.save_db_as_json()
     
