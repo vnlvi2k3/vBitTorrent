@@ -28,7 +28,7 @@ CFG = {
     },
     "constants": {
         "AVAILABLE_PORTS_RANGE": (1024, 65535),
-        "TRACKER_ADDR": ("192.168.1.9", 8080),
+        "TRACKER_ADDR": ("192.168.0.163", 8080),
         "MAX_HTTP_BODY_SIZE": 65536,
         "BUFFER_SIZE": 8192,
         "CHUNK_PIECES_SIZE": 4096,
