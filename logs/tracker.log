@@ -773,3 +773,2946 @@ Tracker started at ['192.168.1.9', 8080]
 [09:37:17] ========================================
 Tracker started at ['192.168.1.9', 8080]
 ===================================================
+[09:56:48] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[10:02:11] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[10:02:43] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:03:15] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:03:15] Peer 1 registered as owner of file ASS1.pdf
+[10:03:47] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:04:19] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:04:51] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:05:23] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:05:55] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:06:27] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:06:59] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:07:31] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:08:03] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:08:35] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:09:07] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:09:39] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:10:11] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:10:43] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:11:15] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:15:03] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:15:03] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[10:15:31] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:16:03] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:16:35] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:17:07] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[10:17:30] Peer 2 requested file ASS1.pdf
+[10:17:39] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[10:18:11] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[10:18:43] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[10:18:58] Peer 1 registered as owner of file ASS1.pdf
+[10:19:04] Peer 2 requested file ASS1.pdf
+[10:19:04] Peer 2 requested file ASS1.pdf
+[10:19:04] Peer 2 registered as owner of file ASS1.pdf
+[10:19:15] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[10:19:47] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[10:20:19] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[10:20:51] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[10:21:42] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[10:21:47] Peer 1 registered as owner of file ASS1.pdf
+[10:22:14] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:22:46] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[10:23:09] Peer 2 requested file ASS1.pdf
+[10:23:09] Peer 2 requested file ASS1.pdf
+[10:23:09] Peer 2 registered as owner of file ASS1.pdf
+[14:23:20] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[14:24:19] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[14:25:17] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[14:25:56] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[14:26:36] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[14:27:00] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[14:27:26] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[14:28:41] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[14:29:13] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[14:29:22] Peer 1 registered as owner of file ASS1.pdf
+[14:29:27] Peer 2 requested file ASS1.pdf
+[14:29:27] Peer 2 requested file ASS1.pdf
+[14:29:27] Peer 2 registered as owner of file ASS1.pdf
+[14:29:45] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[14:30:17] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[14:30:49] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[14:31:21] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[14:31:53] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[14:32:57] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[14:33:03] Peer 1 registered as owner of file ASS1.pdf
+[14:33:05] Peer 2 requested file ASS1.pdf
+[14:33:05] Peer 2 requested file ASS1.pdf
+[14:33:05] Peer 2 registered as owner of file ASS1.pdf
+[14:33:29] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[14:35:19] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[14:35:29] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[14:35:37] Peer 1 registered as owner of file ASS1.pdf
+[14:35:39] Peer 2 requested file ASS1.pdf
+[14:35:39] Peer 2 requested file ASS1.pdf
+[14:35:39] Peer 2 registered as owner of file ASS1.pdf
+[14:37:03] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[14:37:12] Peer 1 registered as owner of file ASS1.pdf
+[14:37:15] Peer 2 requested file ASS1.pdf
+[14:37:15] Peer 2 requested file ASS1.pdf
+[14:37:15] Peer 2 registered as owner of file ASS1.pdf
+[14:41:01] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[14:41:22] Peer 1 registered as owner of file ASS1.pdf
+[14:41:24] Peer 2 requested file ASS1.pdf
+[14:41:24] Peer 2 requested file ASS1.pdf
+[14:41:24] Peer 2 registered as owner of file ASS1.pdf
+[14:41:33] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[14:44:39] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[14:44:54] Peer 1 registered as owner of file ASS1.pdf
+[14:44:56] Peer 2 requested file ASS1.pdf
+[14:44:56] Peer 2 requested file ASS1.pdf
+[14:44:56] Peer 2 registered as owner of file ASS1.pdf
+[14:45:11] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[14:45:44] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[14:45:50] Peer 1 registered as owner of file ASS1.pdf
+[14:45:52] Peer 2 requested file ASS1.pdf
+[14:45:52] Peer 2 requested file ASS1.pdf
+[14:45:52] Peer 2 registered as owner of file ASS1.pdf
+[14:46:16] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[14:46:48] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[14:47:20] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[14:47:52] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[14:48:31] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[14:48:43] Peer 1 registered as owner of file ASS1.pdf
+[14:48:45] Peer 2 requested file ASS1.pdf
+[14:48:45] Peer 2 requested file ASS1.pdf
+[14:48:45] Peer 2 registered as owner of file ASS1.pdf
+[14:57:00] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[14:57:05] Peer 1 registered as owner of file ASS1.pdf
+[14:57:07] Peer 2 requested file ASS1.pdf
+[14:57:07] Peer 2 requested file ASS1.pdf
+[14:57:07] Peer 2 registered as owner of file ASS1.pdf
+[15:59:45] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[15:59:52] Peer 1 registered as owner of file ASS1.pdf
+[15:59:55] Peer 2 requested file ASS1.pdf
+[15:59:55] Peer 2 requested file ASS1.pdf
+[15:59:55] Peer 2 registered as owner of file ASS1.pdf
+[16:35:35] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[16:35:40] Peer 1 registered as owner of file ASS1.pdf
+[16:35:42] Peer 2 requested file ASS1.pdf
+[16:35:42] Peer 2 requested file ASS1.pdf
+[16:35:42] Peer 2 registered as owner of file ASS1.pdf
+[16:36:21] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[16:36:35] Peer 1 registered as owner of file ASS1.pdf
+[16:36:43] Peer 2 registered as owner of file ASS1.pdf
+[16:36:53] Peer(s) [1, 2, 4] is in torrent and peer(s) [] have left the torrent.
+[16:37:00] Peer 4 requested file ASS1.pdf
+[16:37:00] Peer 4 requested file ASS1.pdf
+[16:37:00] Peer 4 registered as owner of file ASS1.pdf
+[16:38:25] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[16:38:38] Peer 1 registered as owner of file v.mkv
+[16:38:43] Peer 2 registered as owner of file v.mkv
+[16:38:50] Peer 4 requested file v.mkv
+[16:38:50] Peer 4 requested file v.mkv
+[16:38:57] Peer(s) [1, 2, 4] is in torrent and peer(s) [] have left the torrent.
+[16:39:29] Peer(s) [1, 2, 4] is in torrent and peer(s) [] have left the torrent.
+[16:40:01] Peer(s) [1, 2, 4] is in torrent and peer(s) [] have left the torrent.
+[16:49:46] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[16:49:53] Peer 1 registered as owner of file v.mkv
+[16:50:03] Peer 2 requested file v.mkv
+[16:50:03] Peer 2 requested file v.mkv
+[16:50:18] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:50:50] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:52:02] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[16:52:14] Peer 1 registered as owner of file v.mkv
+[16:52:17] Peer 2 requested file v.mkv
+[16:52:17] Peer 2 requested file v.mkv
+[16:52:34] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:55:16] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[16:55:26] Peer 1 registered as owner of file ASS1.pdf
+[16:55:34] Peer 2 requested file ASS1.pdf
+[16:55:34] Peer 2 requested file ASS1.pdf
+[16:55:34] Peer 2 registered as owner of file ASS1.pdf
+[16:55:48] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:55:51] Peer 1 registered as owner of file CHAP5.pdf
+[16:55:58] Peer 2 requested file CHAP5.pdf
+[16:55:58] Peer 2 requested file CHAP5.pdf
+[16:56:20] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:59:10] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[16:59:15] Peer 1 registered as owner of file CHAP5.pdf
+[16:59:18] Peer 2 requested file CHAP5.pdf
+[16:59:18] Peer 2 requested file CHAP5.pdf
+[17:00:04] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:00:08] Peer 1 registered as owner of file CHAP5.pdf
+[17:00:10] Peer 2 requested file CHAP5.pdf
+[17:00:10] Peer 2 requested file CHAP5.pdf
+[17:00:44] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:00:48] Peer 1 registered as owner of file CHAP5.pdf
+[17:00:50] Peer 2 requested file CHAP5.pdf
+[17:00:50] Peer 2 requested file CHAP5.pdf
+[17:01:16] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[17:01:56] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:02:05] Peer 1 registered as owner of file CHAP5.pdf
+[17:02:06] Peer 2 requested file CHAP5.pdf
+[17:02:06] Peer 2 requested file CHAP5.pdf
+[17:02:06] Peer 2 registered as owner of file CHAP5.pdf
+[17:02:28] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[17:06:27] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:06:30] Peer 1 registered as owner of file CHAP5.pdf
+[17:06:33] Peer 2 requested file CHAP5.pdf
+[17:06:33] Peer 2 requested file CHAP5.pdf
+[17:11:11] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:11:14] Peer 1 registered as owner of file CHAP5.pdf
+[17:11:16] Peer 2 requested file CHAP5.pdf
+[17:11:16] Peer 2 requested file CHAP5.pdf
+[17:15:32] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:15:35] Peer 1 registered as owner of file CHAP5.pdf
+[17:15:38] Peer 2 requested file CHAP5.pdf
+[17:15:38] Peer 2 requested file CHAP5.pdf
+[17:16:26] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:16:34] Peer 1 registered as owner of file CHAP5.pdf
+[17:16:36] Peer 2 requested file CHAP5.pdf
+[17:16:36] Peer 2 requested file CHAP5.pdf
+[17:16:36] Peer 2 registered as owner of file CHAP5.pdf
+[17:16:58] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[17:18:19] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:18:24] Peer 1 registered as owner of file CHAP5.pdf
+[17:18:28] Peer 2 requested file CHAP5.pdf
+[17:18:28] Peer 2 requested file CHAP5.pdf
+[17:18:28] Peer 2 registered as owner of file CHAP5.pdf
+[17:18:45] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:18:52] Peer 1 registered as owner of file v.mkv
+[17:18:59] Peer 2 requested file v.mkv
+[17:18:59] Peer 2 requested file v.mkv
+[17:19:17] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[17:23:26] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:23:29] Peer 1 registered as owner of file v.mkv
+[17:23:32] Peer 2 requested file v.mkv
+[17:23:32] Peer 2 requested file v.mkv
+[17:38:38] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:38:41] Peer 1 registered as owner of file v.mkv
+[17:38:44] Peer 2 requested file v.mkv
+[17:38:44] Peer 2 requested file v.mkv
+[17:39:10] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[17:39:19] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:39:22] Peer 1 registered as owner of file v.mkv
+[17:39:28] Peer 2 requested file v.mkv
+[17:39:28] Peer 2 requested file v.mkv
+[17:39:51] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[17:40:36] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:40:46] Peer 1 registered as owner of file v.mkv
+[17:40:49] Peer 2 requested file v.mkv
+[17:40:49] Peer 2 requested file v.mkv
+[17:42:59] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:43:02] Peer 1 registered as owner of file v.mkv
+[17:43:05] Peer 2 requested file v.mkv
+[17:43:05] Peer 2 requested file v.mkv
+[17:45:51] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:46:02] Peer 1 registered as owner of file v.mkv
+[17:46:05] Peer 2 requested file v.mkv
+[17:46:05] Peer 2 requested file v.mkv
+[17:46:23] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[17:47:03] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:47:06] Peer 1 registered as owner of file v.mkv
+[17:47:12] Peer 2 requested file v.mkv
+[17:47:12] Peer 2 requested file v.mkv
+[17:48:53] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:48:56] Peer 1 registered as owner of file v.mkv
+[17:48:58] Peer 2 requested file v.mkv
+[17:48:58] Peer 2 requested file v.mkv
+[17:49:52] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:49:58] Peer 1 registered as owner of file v.mkv
+[17:50:01] Peer 2 requested file v.mkv
+[17:50:01] Peer 2 requested file v.mkv
+[17:50:24] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[17:51:24] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:51:27] Peer 1 registered as owner of file v.mkv
+[17:51:29] Peer 2 requested file v.mkv
+[17:51:29] Peer 2 requested file v.mkv
+[17:52:23] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:52:26] Peer 1 registered as owner of file v.mkv
+[17:52:29] Peer 2 requested file v.mkv
+[17:52:29] Peer 2 requested file v.mkv
+[17:53:12] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:53:15] Peer 1 registered as owner of file v.mkv
+[17:53:18] Peer 2 requested file v.mkv
+[17:53:18] Peer 2 requested file v.mkv
+[17:54:28] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:54:32] Peer 1 registered as owner of file v.mkv
+[17:54:34] Peer 2 requested file v.mkv
+[17:54:34] Peer 2 requested file v.mkv
+[17:55:00] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[17:55:32] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[17:58:54] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[17:59:02] Peer 1 registered as owner of file v.mkv
+[17:59:04] Peer 2 requested file v.mkv
+[17:59:04] Peer 2 requested file v.mkv
+[17:59:26] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[17:59:58] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[18:00:34] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[18:00:37] Peer 1 registered as owner of file v.mkv
+[18:00:40] Peer 2 requested file v.mkv
+[18:00:40] Peer 2 requested file v.mkv
+[18:02:09] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[18:02:14] Peer 1 registered as owner of file v.mkv
+[18:02:17] Peer 2 requested file v.mkv
+[18:02:17] Peer 2 requested file v.mkv
+[18:03:28] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[18:03:36] Peer 1 registered as owner of file v.mkv
+[18:03:37] Peer 2 requested file v.mkv
+[18:03:37] Peer 2 requested file v.mkv
+[18:05:47] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[18:05:54] Peer 1 registered as owner of file v.mkv
+[18:05:56] Peer 2 requested file v.mkv
+[18:05:56] Peer 2 requested file v.mkv
+[18:06:05] Peer 2 registered as owner of file v.mkv
+[18:07:42] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[18:07:44] Peer 1 registered as owner of file v.mkv
+[18:07:47] Peer 2 requested file v.mkv
+[18:07:47] Peer 2 requested file v.mkv
+[18:07:54] Peer 2 registered as owner of file v.mkv
+[18:08:14] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[18:09:52] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[18:09:55] Peer 1 registered as owner of file v.mkv
+[18:09:59] Peer 2 requested file v.mkv
+[18:09:59] Peer 2 requested file v.mkv
+[18:10:03] Peer 2 registered as owner of file v.mkv
+[18:10:53] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[18:10:56] Peer 1 registered as owner of file v.mkv
+[18:11:25] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[18:24:19] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[18:24:26] Peer 1 registered as owner of file v.mkv
+[18:24:27] Peer 2 requested file v.mkv
+[18:24:27] Peer 2 requested file v.mkv
+[18:24:33] Peer 2 registered as owner of file v.mkv
+[18:25:11] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[18:25:19] Peer 1 registered as owner of file v.mkv
+[18:25:20] Peer 2 requested file v.mkv
+[18:25:20] Peer 2 requested file v.mkv
+[18:25:23] Peer 2 registered as owner of file v.mkv
+[18:25:43] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[18:27:09] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[18:27:12] Peer 1 registered as owner of file v.mkv
+[18:27:18] Peer 2 requested file v.mkv
+[18:27:18] Peer 2 requested file v.mkv
+[18:30:01] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[18:30:04] Peer 1 registered as owner of file v.mkv
+[18:30:33] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[18:31:05] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[18:31:29] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[18:31:35] Peer 1 registered as owner of file v.mkv
+[18:32:01] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[18:32:13] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[18:32:17] Peer 1 registered as owner of file v.mkv
+[18:32:37] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[18:32:40] Peer 1 registered as owner of file v.mkv
+[18:33:09] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[18:34:21] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[18:34:23] Peer 1 registered as owner of file v.mkv
+[18:34:26] Peer 2 requested file v.mkv
+[18:34:26] Peer 2 requested file v.mkv
+[18:34:28] Peer 2 registered as owner of file v.mkv
+[18:35:38] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[18:36:04] Peer 1 registered as owner of file v.mkv
+[18:36:06] Peer 2 requested file v.mkv
+[18:36:06] Peer 2 requested file v.mkv
+[18:36:10] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[18:37:44] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[18:38:00] Peer 1 registered as owner of file v.mkv
+[18:38:03] Peer 2 requested file v.mkv
+[18:38:03] Peer 2 requested file v.mkv
+[18:38:06] Peer 2 registered as owner of file v.mkv
+[18:38:16] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[18:39:29] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[18:39:41] Peer 1 registered as owner of file CHAP5.pdf
+[18:39:48] Peer 2 requested file CHAP5.pdf
+[18:39:48] Peer 2 requested file CHAP5.pdf
+[18:39:48] Peer 2 registered as owner of file CHAP5.pdf
+[18:40:01] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[19:00:36] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:00:41] Peer 1 registered as owner of file CHAP5.pdf
+[19:01:11] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:01:18] Peer 1 registered as owner of file CHAP5.pdf
+[19:01:42] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:01:46] Peer 1 registered as owner of file CHAP5.pdf
+[19:01:48] Peer 2 requested file CHAP5.pdf
+[19:01:48] Peer 2 requested file CHAP5.pdf
+[19:01:48] Peer 2 registered as owner of file CHAP5.pdf
+[19:13:14] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:13:19] Peer 1 registered as owner of file CHAP5.pdf
+[19:13:20] Peer 2 requested file CHAP5.pdf
+[19:13:20] Peer 2 requested file CHAP5.pdf
+[19:13:21] Peer 2 registered as owner of file CHAP5.pdf
+[19:13:46] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[19:15:33] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:15:38] Peer 1 registered as owner of file CHAP5.pdf
+[19:15:40] Peer 2 requested file CHAP5.pdf
+[19:15:40] Peer 2 requested file CHAP5.pdf
+[19:15:40] Peer 2 registered as owner of file CHAP5.pdf
+[19:16:25] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:17:37] Peer 1 registered as owner of file CHAP5.pdf
+[19:17:38] Peer 2 requested file CHAP5.pdf
+[19:17:38] Peer 2 requested file CHAP5.pdf
+[19:17:39] Peer 2 registered as owner of file CHAP5.pdf
+[19:18:36] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:18:41] Peer 1 registered as owner of file CHAP5.pdf
+[19:18:43] Peer 2 requested file CHAP5.pdf
+[19:18:43] Peer 2 requested file CHAP5.pdf
+[19:18:43] Peer 2 registered as owner of file CHAP5.pdf
+[19:19:01] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:19:10] Peer 1 registered as owner of file v.mkv
+[19:19:16] Peer 2 requested file v.mkv
+[19:19:16] Peer 2 requested file v.mkv
+[19:19:33] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[19:22:02] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:22:06] Peer 1 registered as owner of file v.mkv
+[19:22:08] Peer 2 requested file v.mkv
+[19:22:08] Peer 2 requested file v.mkv
+[19:23:03] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:23:08] Peer 1 registered as owner of file v.mkv
+[19:23:10] Peer 2 requested file v.mkv
+[19:23:10] Peer 2 requested file v.mkv
+[19:27:00] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:27:56] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:28:01] Peer 1 registered as owner of file v.mkv
+[19:28:04] Peer 2 requested file v.mkv
+[19:28:04] Peer 2 requested file v.mkv
+[19:28:55] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:28:59] Peer 1 registered as owner of file v.mkv
+[19:29:00] Peer 2 requested file v.mkv
+[19:29:01] Peer 2 requested file v.mkv
+[19:29:30] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:29:35] Peer 1 registered as owner of file v.mkv
+[19:29:37] Peer 2 requested file v.mkv
+[19:29:37] Peer 2 requested file v.mkv
+[19:29:56] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:30:00] Peer 1 registered as owner of file v.mkv
+[19:30:01] Peer 2 requested file v.mkv
+[19:30:01] Peer 2 requested file v.mkv
+[19:30:22] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:30:26] Peer 1 registered as owner of file v.mkv
+[19:30:28] Peer 2 requested file v.mkv
+[19:30:28] Peer 2 requested file v.mkv
+[19:30:48] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:31:06] Peer 1 registered as owner of file v.mkv
+[19:31:07] Peer 2 requested file v.mkv
+[19:31:07] Peer 2 requested file v.mkv
+[19:31:20] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[19:31:52] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[19:32:24] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[19:32:56] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[19:33:21] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:33:30] Peer 1 registered as owner of file CHAP5.pdf
+[19:33:36] Peer 2 requested file CHAP5.pdf
+[19:33:36] Peer 2 requested file CHAP5.pdf
+[19:33:36] Peer 2 registered as owner of file CHAP5.pdf
+[19:33:53] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[19:34:46] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:35:06] Peer 3 registered as owner of file v.mkv
+[19:35:14] Peer 1 registered as owner of file v.mkv
+[19:35:18] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[19:35:28] Peer 2 requested file v.mkv
+[19:35:28] Peer 2 requested file v.mkv
+[19:35:50] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[19:36:11] Peer 1 registered as owner of file CHAP5.pdf
+[19:36:19] Peer 2 registered as owner of file CHAP5.pdf
+[19:36:22] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[19:36:33] Peer 3 requested file CHAP5.pdf
+[19:36:33] Peer 3 requested file CHAP5.pdf
+[19:36:33] Peer 3 registered as owner of file CHAP5.pdf
+[19:36:54] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[19:40:31] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:40:49] Peer 1 registered as owner of file CHAP5.pdf
+[19:40:57] Peer 2 requested file CHAP5.pdf
+[19:40:57] Peer 2 requested file CHAP5.pdf
+[19:40:57] Peer 2 registered as owner of file CHAP5.pdf
+[19:41:03] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[19:41:07] Peer 2 registered as owner of file CHAP5.pdf
+[19:41:12] Peer 3 requested file CHAP5.pdf
+[19:41:12] Peer 3 requested file CHAP5.pdf
+[19:45:21] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:45:35] Peer 2 registered as owner of file CHAP5.pdf
+[19:45:37] Peer 1 registered as owner of file CHAP5.pdf
+[19:45:41] Peer 3 requested file CHAP5.pdf
+[19:45:41] Peer 3 requested file CHAP5.pdf
+[19:45:41] Peer 3 registered as owner of file CHAP5.pdf
+[19:45:53] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[19:46:25] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[19:46:57] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:47:03] Peer 1 registered as owner of file v.mkv
+[19:47:06] Peer 2 requested file v.mkv
+[19:47:06] Peer 2 requested file v.mkv
+[19:49:09] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:49:13] Peer 1 registered as owner of file v.mkv
+[19:49:16] Peer 2 requested file v.mkv
+[19:49:16] Peer 2 requested file v.mkv
+[19:49:55] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:50:14] Peer 1 registered as owner of file v.mkv
+[19:50:15] Peer 2 requested file v.mkv
+[19:50:15] Peer 2 requested file v.mkv
+[19:50:27] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[19:53:33] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:53:38] Peer 1 registered as owner of file v.mkv
+[19:53:40] Peer 2 requested file v.mkv
+[19:53:40] Peer 2 requested file v.mkv
+[19:53:58] Peer 2 registered as owner of file v.mkv
+[19:54:05] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[19:54:46] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:55:04] Peer 1 registered as owner of file CHAP5.pdf
+[19:55:14] Peer 2 registered as owner of file CHAP5.pdf
+[19:55:16] Peer 3 requested file CHAP5.pdf
+[19:55:16] Peer 3 requested file CHAP5.pdf
+[19:55:16] Peer 3 registered as owner of file CHAP5.pdf
+[19:55:18] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[19:56:19] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[19:56:28] Peer 3 registered as owner of file v.mkv
+[19:56:31] Peer 1 registered as owner of file v.mkv
+[19:56:35] Peer 2 requested file v.mkv
+[19:56:35] Peer 2 requested file v.mkv
+[19:56:51] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[19:57:23] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[19:57:55] Peer(s) [2] is in torrent and peer(s) [1] have left the torrent.
+[19:58:41] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[20:54:37] ========================================
+Tracker started at ['192.168.1.207', 8080]
+===================================================
+[20:55:14] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[20:55:31] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[20:55:35] Peer 1 registered as owner of file CHAP5.pdf
+[20:55:43] Peer 2 requested file CHAP5.pdf
+[20:55:43] Peer 2 requested file CHAP5.pdf
+[20:55:43] Peer 2 registered as owner of file CHAP5.pdf
+[20:56:03] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[20:56:06] Peer 3 requested file CHAP5.pdf
+[20:56:06] Peer 3 requested file CHAP5.pdf
+[20:56:35] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[20:59:52] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[20:59:58] Peer 1 registered as owner of file CHAP5.pdf
+[21:00:02] Peer 2 registered as owner of file CHAP5.pdf
+[21:00:07] Peer 3 requested file CHAP5.pdf
+[21:00:07] Peer 3 requested file CHAP5.pdf
+[21:00:08] Peer 3 registered as owner of file CHAP5.pdf
+[21:00:24] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[21:03:40] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[21:03:50] Peer 2 requested file v.mkv
+[21:03:53] Peer 1 registered as owner of file CHAP5.pdf
+[21:03:55] Peer 2 requested file v.mkv
+[21:04:02] Peer 2 requested file CHAP5.pdf
+[21:04:02] Peer 2 requested file CHAP5.pdf
+[21:04:02] Peer 2 registered as owner of file CHAP5.pdf
+[21:04:12] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[21:04:45] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[21:04:54] Peer 1 registered as owner of file CHAP5.pdf
+[21:04:56] Peer 2 requested file CHAP5.pdf
+[21:04:56] Peer 2 requested file CHAP5.pdf
+[21:04:56] Peer 2 registered as owner of file CHAP5.pdf
+[21:04:59] Peer 3 requested file CHAP5.pdf
+[21:04:59] Peer 3 requested file CHAP5.pdf
+[21:05:17] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[21:09:55] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[21:10:12] Peer 1 registered as owner of file CHAP5.pdf
+[21:10:18] Peer 2 requested file CHAP5.pdf
+[21:10:18] Peer 2 requested file CHAP5.pdf
+[21:10:18] Peer 2 registered as owner of file CHAP5.pdf
+[21:10:27] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[21:10:35] Peer 2 registered as owner of file CHAP5.pdf
+[21:12:07] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[21:12:39] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[21:12:46] Peer 1 registered as owner of file CHAP5.pdf
+[21:12:54] Peer 2 requested file CHAP5.pdf
+[21:12:54] Peer 2 requested file CHAP5.pdf
+[21:12:54] Peer 2 registered as owner of file CHAP5.pdf
+[21:13:09] Peer 2 registered as owner of file CHAP5.pdf
+[21:13:11] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[21:13:36] Peer 3 requested file CHAP5.pdf
+[21:13:36] Peer 3 requested file CHAP5.pdf
+[21:13:43] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[21:18:04] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[21:18:13] Peer 1 registered as owner of file v.mkv
+[21:18:18] Peer 3 registered as owner of file v.mkv
+[21:18:22] Peer 2 requested file v.mkv
+[21:18:22] Peer 2 requested file v.mkv
+[21:18:36] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[21:20:32] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[21:20:39] Peer 1 registered as owner of file v.mkv
+[21:20:42] Peer 3 registered as owner of file v.mkv
+[21:20:44] Peer 2 requested file v.mkv
+[21:20:44] Peer 2 requested file v.mkv
+[21:21:04] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[21:21:36] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[21:22:08] Peer(s) [2] is in torrent and peer(s) [1] have left the torrent.
+[21:22:41] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[21:22:46] Peer 1 registered as owner of file v.mkv
+[21:22:49] Peer 3 registered as owner of file v.mkv
+[21:22:51] Peer 2 requested file v.mkv
+[21:22:51] Peer 2 requested file v.mkv
+[21:23:29] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[21:23:35] Peer 1 registered as owner of file v.mkv
+[21:23:38] Peer 3 registered as owner of file v.mkv
+[21:23:40] Peer 2 requested file v.mkv
+[21:23:40] Peer 2 requested file v.mkv
+[21:24:01] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[21:24:08] Peer 2 registered as owner of file v.mkv
+[22:02:15] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[22:02:22] Peer 3 registered as owner of file v.mkv
+[22:02:25] Peer 1 registered as owner of file v.mkv
+[22:02:27] Peer 2 requested file v.mkv
+[22:02:27] Peer 2 requested file v.mkv
+[22:02:27] Peer 2 registered as owner of file v.mkv
+[22:02:47] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:03:19] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:03:51] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:04:23] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:05:44] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[22:05:49] Peer 1 registered as owner of file v.mkv
+[22:05:53] Peer 3 registered as owner of file v.mkv
+[22:05:57] Peer 2 requested file v.mkv
+[22:05:57] Peer 2 requested file v.mkv
+[22:05:57] Peer 2 registered as owner of file v.mkv
+[22:06:16] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:06:43] Peer 1 registered as owner of file CHAP5.pdf
+[22:06:48] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:06:50] Peer 3 registered as owner of file CHAP5.pdf
+[22:06:55] Peer 2 requested file CHAP5.pdf
+[22:06:55] Peer 2 requested file CHAP5.pdf
+[22:06:55] Peer 2 registered as owner of file CHAP5.pdf
+[22:07:58] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[22:08:05] Peer 3 registered as owner of file CHAP5.pdf
+[22:08:07] Peer 1 registered as owner of file CHAP5.pdf
+[22:08:10] Peer 2 requested file CHAP5.pdf
+[22:08:10] Peer 2 requested file CHAP5.pdf
+[22:08:10] Peer 2 registered as owner of file CHAP5.pdf
+[22:08:30] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:08:30] Peer 1 registered as owner of file v.mkv
+[22:08:34] Peer 3 registered as owner of file v.mkv
+[22:08:39] Peer 2 requested file v.mkv
+[22:08:39] Peer 2 requested file v.mkv
+[22:10:33] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[22:10:50] Peer 1 registered as owner of file CHAP5.pdf
+[22:10:58] Peer 3 registered as owner of file CHAP5.pdf
+[22:11:00] Peer 2 requested file v.mkv
+[22:11:05] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:11:08] Peer 2 requested file CHAP5.pdf
+[22:11:08] Peer 2 requested file CHAP5.pdf
+[22:11:08] Peer 2 registered as owner of file CHAP5.pdf
+[22:11:52] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[22:11:57] Peer 1 registered as owner of file CHAP5.pdf
+[22:12:00] Peer 3 registered as owner of file CHAP5.pdf
+[22:12:03] Peer 2 requested file CHAP5.pdf
+[22:12:03] Peer 2 requested file CHAP5.pdf
+[22:12:03] Peer 2 registered as owner of file CHAP5.pdf
+[22:12:24] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:12:56] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:14:34] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[22:14:54] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[22:15:01] Peer 3 registered as owner of file CHAP5.pdf
+[22:15:03] Peer 1 registered as owner of file CHAP5.pdf
+[22:15:05] Peer 2 requested file CHAP5.pdf
+[22:15:05] Peer 2 requested file CHAP5.pdf
+[22:15:05] Peer 2 registered as owner of file CHAP5.pdf
+[22:15:26] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:23:31] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[22:24:03] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[22:24:06] Peer 1 registered as owner of file CHAP5.pdf
+[22:24:11] Peer 2 requested file CHAP5.pdf
+[22:24:11] Peer 2 requested file CHAP5.pdf
+[22:24:19] Peer 3 requested file CHAP5.pdf
+[22:24:19] Peer 3 requested file CHAP5.pdf
+[22:24:20] Peer 3 registered as owner of file CHAP5.pdf
+[22:24:35] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[22:25:14] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[22:25:23] Peer 1 registered as owner of file CHAP5.pdf
+[22:25:24] Peer 3 requested file CHAP5.pdf
+[22:25:24] Peer 3 requested file CHAP5.pdf
+[22:25:25] Peer 3 registered as owner of file CHAP5.pdf
+[22:25:30] Peer 2 requested file CHAP5.pdf
+[22:25:30] Peer 2 requested file CHAP5.pdf
+[22:25:46] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:26:10] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[22:26:20] Peer 1 registered as owner of file CHAP5.pdf
+[22:26:22] Peer 2 requested file CHAP5.pdf
+[22:26:22] Peer 2 requested file CHAP5.pdf
+[22:26:23] Peer 2 registered as owner of file CHAP5.pdf
+[22:26:33] Peer 3 requested file CHAP5.pdf
+[22:26:33] Peer 3 requested file CHAP5.pdf
+[22:26:42] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:28:08] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[22:28:40] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:29:12] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[22:29:44] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[22:30:13] Peer 1 registered as owner of file CHAP5.pdf
+[22:30:16] Peer(s) [] is in torrent and peer(s) [3] have left the torrent.
+[22:30:17] Peer 2 requested file CHAP5.pdf
+[22:30:17] Peer 2 requested file CHAP5.pdf
+[22:30:17] Peer 2 registered as owner of file CHAP5.pdf
+[22:30:24] Peer 3 requested file CHAP5.pdf
+[22:30:24] Peer 3 requested file CHAP5.pdf
+[22:30:48] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:30:53] Peer 1 registered as owner of file CHAP5.pdf
+[22:30:56] Peer 2 registered as owner of file CHAP5.pdf
+[22:30:58] Peer 3 requested file CHAP5.pdf
+[22:30:58] Peer 3 requested file CHAP5.pdf
+[22:31:51] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[22:32:02] Peer 1 registered as owner of file CHAP5.pdf
+[22:32:05] Peer 3 registered as owner of file v.mkv
+[22:32:15] Peer 2 requested file CHAP5.pdf
+[22:32:15] Peer 2 requested file CHAP5.pdf
+[22:32:15] Peer 2 registered as owner of file CHAP5.pdf
+[22:32:23] Peer 3 requested file CHAP5.pdf
+[22:32:23] Peer 3 requested file CHAP5.pdf
+[22:32:23] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:33:08] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[22:33:17] Peer 3 requested file CHAP5.pdf
+[22:33:22] Peer 1 registered as owner of file CHAP5.pdf
+[22:33:39] Peer 2 registered as owner of file CHAP5.pdf
+[22:33:40] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:33:54] Peer 3 requested file CHAP5.pdf
+[22:33:54] Peer 3 requested file CHAP5.pdf
+[22:33:55] Peer 3 registered as owner of file CHAP5.pdf
+[22:34:12] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:34:53] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[22:34:57] Peer 2 registered as owner of file CHAP5.pdf
+[22:35:01] Peer 1 registered as owner of file CHAP5.pdf
+[22:35:04] Peer 3 requested file CHAP5.pdf
+[22:35:04] Peer 3 requested file CHAP5.pdf
+[22:35:04] Peer 3 registered as owner of file CHAP5.pdf
+[22:35:25] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:52:07] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[22:52:18] Peer 1 registered as owner of file CHAP5.pdf
+[22:52:20] Peer 2 registered as owner of file CHAP5.pdf
+[22:52:21] Peer 3 requested file CHAP5.pdf
+[22:52:21] Peer 3 requested file CHAP5.pdf
+[22:52:22] Peer 3 registered as owner of file CHAP5.pdf
+[22:52:38] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:52:58] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[22:53:05] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[22:53:11] Peer 1 registered as owner of file CHAP5.pdf
+[22:53:15] Peer 3 requested file CHAP5.pdf
+[22:53:15] Peer 3 requested file CHAP5.pdf
+[22:53:15] Peer 3 registered as owner of file CHAP5.pdf
+[22:53:37] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[22:59:42] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[23:00:14] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[23:00:46] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[23:00:57] Peer 1 registered as owner of file CHAP5.pdf
+[23:01:01] Peer 3 registered as owner of file CHAP5.pdf
+[23:01:17] Peer 2 requested file CHAP5.pdf
+[23:01:17] Peer 2 requested file CHAP5.pdf
+[23:01:18] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:01:50] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:01:59] Peer 2 requested file CHAP5.pdf
+[23:01:59] Peer 2 requested file CHAP5.pdf
+[23:02:22] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[23:02:54] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:03:26] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:03:58] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[23:04:30] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[23:05:02] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[23:05:34] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[23:05:43] Peer 2 requested file CHAP5.pdf
+[23:05:43] Peer 2 requested file CHAP5.pdf
+[23:05:44] Peer 2 registered as owner of file CHAP5.pdf
+[23:06:06] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:06:38] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:07:10] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:07:20] Peer 1 registered as owner of file v.mkv
+[23:07:26] Peer 3 registered as owner of file v.mkv
+[23:07:34] Peer 2 requested file v.mkv
+[23:07:34] Peer 2 requested file v.mkv
+[23:07:42] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:08:14] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:08:46] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:09:18] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:09:50] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:10:22] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:10:54] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:11:26] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:11:58] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[23:12:30] Peer(s) [] is in torrent and peer(s) [3] have left the torrent.
+[23:12:40] Peer 3 registered as owner of file v.mkv
+[23:12:42] Peer 1 registered as owner of file v.mkv
+[23:13:02] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:13:11] Peer 2 requested file v.mkv
+[23:13:11] Peer 2 requested file v.mkv
+[23:13:34] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[23:14:06] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:14:38] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:15:10] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:15:42] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:16:14] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:16:46] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:17:18] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:17:50] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:18:11] Peer 2 registered as owner of file v.mkv
+[23:18:22] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:18:54] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:19:26] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:19:58] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:20:30] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:20:55] Peer 3 registered as owner of file CHAP5.pdf
+[23:20:59] Peer 1 registered as owner of file CHAP5.pdf
+[23:21:02] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:21:34] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:21:59] Peer 2 requested file CHAP5.pdf
+[23:22:01] Peer 2 registered as owner of file CHAP5.pdf
+[23:22:06] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[23:22:38] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:23:39] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[23:23:43] Peer 1 registered as owner of file CHAP5.pdf
+[23:23:52] Peer 1 registered as owner of file v.mkv
+[23:23:56] Peer 3 registered as owner of file CHAP5.pdf
+[23:24:00] Peer 3 registered as owner of file v.mkv
+[23:24:08] Peer 2 requested file CHAP5.pdf
+[23:24:08] Peer 2 requested file CHAP5.pdf
+[23:24:10] Peer 2 registered as owner of file CHAP5.pdf
+[23:24:11] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:24:43] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:24:46] Peer 2 requested file v.mkv
+[23:24:46] Peer 2 requested file v.mkv
+[23:25:15] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:25:47] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:26:19] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:26:51] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:27:23] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:27:55] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:28:27] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:28:59] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:29:31] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[23:29:59] Peer 2 registered as owner of file v.mkv
+[23:30:03] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[09:17:16] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[09:17:21] Peer 1 registered as owner of file CHAP5.pdf
+[09:17:38] Peer 2 requested file CHAP5.pdf
+[09:17:38] Peer 2 requested file CHAP5.pdf
+[09:17:38] Peer 2 registered as owner of file CHAP5.pdf
+[09:17:48] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:19:23] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[09:19:30] Peer 1 registered as owner of file long.pdf
+[09:19:41] Peer 2 requested file long.pdf
+[09:19:41] Peer 2 requested file long.pdf
+[09:19:53] Peer 2 requested file long.pdf
+[09:19:53] Peer 2 requested file long.pdf
+[09:19:53] Peer 2 registered as owner of file long.pdf
+[09:19:55] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:20:27] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[09:20:59] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:21:13] Peer 1 registered as owner of file long.pdf
+[09:21:18] Peer 2 requested file long.pdf
+[09:21:18] Peer 2 registered as owner of file long.pdf
+[09:21:31] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:22:03] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:22:35] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:23:07] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:23:39] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:24:11] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:24:43] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:25:15] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:25:47] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:26:19] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:26:51] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:27:23] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:27:55] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:28:27] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:28:59] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:29:52] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[09:29:55] Peer 1 registered as owner of file long.pdf
+[09:30:24] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[09:30:28] Peer 1 registered as owner of file long.pdf
+[09:30:33] Peer 2 requested file long.pdf
+[09:30:33] Peer 2 requested file long.pdf
+[09:30:55] Peer 2 requested file long.pdf
+[09:30:55] Peer 2 requested file long.pdf
+[09:30:56] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[09:31:37] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[09:31:39] Peer 1 registered as owner of file long.pdf
+[09:31:43] Peer 2 requested file long.pdf
+[09:31:43] Peer 2 requested file long.pdf
+[09:31:43] Peer 2 registered as owner of file long.pdf
+[09:32:23] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[09:32:40] Peer 1 registered as owner of file long.pdf
+[09:32:42] Peer 2 requested file long.pdf
+[09:32:42] Peer 2 requested file long.pdf
+[09:32:45] Peer 2 requested file long.pdf
+[09:32:45] Peer 2 requested file long.pdf
+[09:32:45] Peer 2 registered as owner of file long.pdf
+[09:32:55] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:33:27] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[09:33:51] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[09:33:54] Peer 1 registered as owner of file long.pdf
+[09:33:58] Peer 2 requested file long.pdf
+[09:33:58] Peer 2 requested file long.pdf
+[09:34:03] Peer 2 requested file long.pdf
+[09:34:03] Peer 2 requested file long.pdf
+[09:34:04] Peer 2 registered as owner of file long.pdf
+[09:34:23] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:37:48] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[09:37:57] Peer 1 registered as owner of file l.pdf
+[09:38:02] Peer 2 requested file l.pdf
+[09:38:02] Peer 2 requested file l.pdf
+[09:38:05] Peer 2 requested file l.pdf
+[09:38:05] Peer 2 requested file l.pdf
+[09:38:06] Peer 2 registered as owner of file l.pdf
+[09:38:20] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:38:52] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[09:39:24] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:39:56] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:40:28] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:41:00] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:41:32] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:42:04] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:42:36] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:43:08] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:43:40] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:44:43] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[09:44:56] Peer 1 registered as owner of file l.pdf
+[09:44:59] Peer 2 requested file l.pdf
+[09:44:59] Peer 2 requested file l.pdf
+[09:45:01] Peer 2 registered as owner of file l.pdf
+[09:45:27] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[09:45:30] Peer 1 registered as owner of file l.pdf
+[09:45:35] Peer 2 requested file l.pdf
+[09:45:35] Peer 2 requested file l.pdf
+[09:45:38] Peer 2 requested file l.pdf
+[09:45:38] Peer 2 requested file l.pdf
+[09:45:59] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:46:31] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[09:47:03] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[09:47:18] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[09:47:21] Peer 1 registered as owner of file l.pdf
+[09:47:25] Peer 2 requested file l.pdf
+[09:47:25] Peer 2 requested file l.pdf
+[09:47:27] Peer 2 requested file l.pdf
+[09:47:27] Peer 2 requested file l.pdf
+[09:47:29] Peer 2 registered as owner of file l.pdf
+[09:47:50] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[09:48:22] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[10:23:21] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[10:24:30] Peer 1 registered as owner of file l.pdf
+[10:24:45] Peer 3 registered as owner of file l.pdf
+[10:24:57] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[10:25:29] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[10:25:52] Peer 2 requested file l.pdf
+[10:25:52] Peer 2 requested file l.pdf
+[10:26:01] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[10:26:05] Peer 2 requested file l.pdf
+[10:26:05] Peer 2 requested file l.pdf
+[10:26:19] Peer 2 requested file l.pdf
+[10:26:19] Peer 2 requested file l.pdf
+[10:26:33] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[10:27:05] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[10:27:37] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[12:03:57] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[12:04:04] Peer 1 registered as owner of file l.pdf
+[12:04:09] Peer 2 requested file l.pdf
+[12:04:09] Peer 2 requested file l.pdf
+[12:05:24] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[12:05:28] Peer 1 registered as owner of file l.pdf
+[12:05:31] Peer 2 requested file l.pdf
+[12:05:31] Peer 2 requested file l.pdf
+[12:05:56] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[12:06:18] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[12:06:21] Peer 1 registered as owner of file l.pdf
+[12:06:35] Peer 2 requested file l.pdf
+[12:06:35] Peer 2 requested file l.pdf
+[12:06:36] Peer 2 registered as owner of file l.pdf
+[12:07:33] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[12:07:35] Peer 1 registered as owner of file l.pdf
+[12:07:53] Peer 2 requested file l.pdf
+[12:07:53] Peer 2 requested file l.pdf
+[12:07:53] Peer 2 registered as owner of file l.pdf
+[12:08:30] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[12:08:33] Peer 1 registered as owner of file l.pdf
+[12:08:36] Peer 2 requested file l.pdf
+[12:08:36] Peer 2 requested file l.pdf
+[12:08:36] Peer 2 registered as owner of file l.pdf
+[12:09:02] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[12:13:30] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[12:13:46] Peer 1 registered as owner of file v.mkv
+[12:14:02] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[12:14:30] Peer 2 requested file v.mkv
+[12:14:30] Peer 2 requested file v.mkv
+[12:14:34] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[12:14:54] Peer 3 registered as owner of file v.mkv
+[12:15:06] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[12:15:38] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[12:17:51] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[12:17:54] Peer 1 registered as owner of file v.mkv
+[12:18:02] Peer 2 requested file v.mkv
+[12:18:02] Peer 2 requested file v.mkv
+[12:18:08] Peer 3 registered as owner of file v.mkv
+[12:18:23] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[12:19:15] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[12:19:18] Peer 1 registered as owner of file v.mkv
+[12:19:25] Peer 2 requested file v.mkv
+[12:19:25] Peer 2 requested file v.mkv
+[12:19:35] Peer 3 registered as owner of file v.mkv
+[12:19:47] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[12:20:32] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[12:20:35] Peer 1 registered as owner of file v.mkv
+[12:20:45] Peer 2 requested file v.mkv
+[12:20:45] Peer 2 requested file v.mkv
+[12:21:04] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[12:21:36] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[12:22:08] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[12:22:09] Peer 2 requested file v.mkv
+[12:22:21] Peer 1 registered as owner of file v.mkv
+[12:22:33] Peer 2 requested file v.mkv
+[12:22:33] Peer 2 requested file v.mkv
+[12:22:40] Peer(s) [] is in torrent and peer(s) [3] have left the torrent.
+[12:23:20] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[12:23:23] Peer 1 registered as owner of file v.mkv
+[12:23:32] Peer 2 requested file v.mkv
+[12:23:32] Peer 2 requested file v.mkv
+[12:23:52] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[12:25:14] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[12:25:24] Peer 1 registered as owner of file v.mkv
+[12:25:29] Peer 2 requested file v.mkv
+[12:25:29] Peer 2 requested file v.mkv
+[12:25:46] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[12:26:18] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[12:26:50] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[12:27:22] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[12:27:54] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[12:28:26] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[13:09:04] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[13:09:15] Peer 1 registered as owner of file v.mkv
+[13:09:36] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[13:09:45] Peer 2 requested file v.mkv
+[13:09:45] Peer 2 requested file v.mkv
+[13:10:08] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[13:10:40] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[13:11:12] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[13:11:44] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[13:12:15] Peer 2 requested file v.mkv
+[13:12:16] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[13:12:48] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[13:13:20] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[13:13:44] Peer 2 requested file v.mkv
+[13:13:52] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[13:14:24] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[13:14:46] Peer 2 requested file v.mkv
+[13:14:56] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[13:15:28] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[13:16:00] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[13:16:32] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[13:17:04] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[13:17:36] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[13:18:08] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[13:18:40] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[13:19:12] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[13:19:44] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[13:20:16] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[13:20:48] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[13:22:10] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[13:22:13] Peer 1 registered as owner of file v.mkv
+[13:22:42] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[13:22:52] Peer 2 requested file v.mkv
+[13:22:52] Peer 2 requested file v.mkv
+[13:23:14] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[13:27:32] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[13:27:35] Peer 1 registered as owner of file v.mkv
+[13:28:04] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[13:28:15] Peer 2 requested file v.mkv
+[13:28:15] Peer 2 requested file v.mkv
+[13:28:15] Peer 2 requested file v.mkv
+[13:28:20] Peer 2 requested file v.mkv
+[13:28:25] Peer 2 requested file v.mkv
+[13:28:30] Peer 2 requested file v.mkv
+[13:28:32] Peer 3 registered as owner of file v.mkv
+[13:28:35] Peer 2 requested file v.mkv
+[13:28:36] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[13:29:08] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[13:29:40] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[13:29:42] Peer 1 registered as owner of file v.mkv
+[13:29:47] Peer 2 requested file v.mkv
+[13:29:47] Peer 2 requested file v.mkv
+[13:30:08] Peer 2 requested file v.mkv
+[13:30:08] Peer 2 requested file v.mkv
+[13:30:12] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[13:30:13] Peer 2 requested file v.mkv
+[13:30:18] Peer 2 requested file v.mkv
+[13:30:23] Peer 2 requested file v.mkv
+[13:30:25] Peer 3 registered as owner of file v.mkv
+[13:30:28] Peer 2 requested file v.mkv
+[13:30:33] Peer 2 requested file v.mkv
+[13:30:39] Peer 2 requested file v.mkv
+[13:30:44] Peer 2 requested file v.mkv
+[13:30:44] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[13:30:49] Peer 2 requested file v.mkv
+[13:30:54] Peer 2 requested file v.mkv
+[13:30:59] Peer 2 requested file v.mkv
+[13:31:04] Peer 2 requested file v.mkv
+[13:31:09] Peer 2 requested file v.mkv
+[13:31:14] Peer 2 requested file v.mkv
+[13:31:16] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[13:31:19] Peer 2 requested file v.mkv
+[13:31:24] Peer 2 requested file v.mkv
+[13:31:29] Peer 2 requested file v.mkv
+[13:31:34] Peer 2 requested file v.mkv
+[13:31:39] Peer 2 requested file v.mkv
+[13:31:44] Peer 2 requested file v.mkv
+[13:31:48] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[13:31:49] Peer 2 requested file v.mkv
+[13:31:54] Peer 2 requested file v.mkv
+[13:31:59] Peer 2 requested file v.mkv
+[13:32:04] Peer 2 requested file v.mkv
+[13:32:09] Peer 2 requested file v.mkv
+[13:32:14] Peer 2 requested file v.mkv
+[13:32:19] Peer 2 requested file v.mkv
+[13:32:20] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[13:32:24] Peer 2 requested file v.mkv
+[13:32:29] Peer 2 requested file v.mkv
+[13:32:34] Peer 2 requested file v.mkv
+[13:32:39] Peer 2 requested file v.mkv
+[13:32:44] Peer 2 requested file v.mkv
+[13:32:49] Peer 2 requested file v.mkv
+[13:32:52] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[13:32:54] Peer 2 requested file v.mkv
+[13:32:59] Peer 2 requested file v.mkv
+[13:33:04] Peer 2 requested file v.mkv
+[13:33:09] Peer 2 requested file v.mkv
+[13:33:14] Peer 2 requested file v.mkv
+[13:33:19] Peer 2 requested file v.mkv
+[13:33:24] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[13:33:24] Peer 2 requested file v.mkv
+[13:33:56] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[14:05:26] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[14:05:29] Peer 1 registered as owner of file v.mkv
+[14:05:36] Peer 2 requested file v.mkv
+[14:05:36] Peer 2 requested file v.mkv
+[14:05:36] Peer 2 requested file v.mkv
+[14:05:41] Peer 2 requested file v.mkv
+[14:05:43] Peer 3 registered as owner of file v.mkv
+[14:05:46] Peer 2 requested file v.mkv
+[14:05:51] Peer 2 requested file v.mkv
+[14:05:56] Peer 2 requested file v.mkv
+[14:05:58] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:06:01] Peer 2 requested file v.mkv
+[14:06:06] Peer 2 requested file v.mkv
+[14:06:11] Peer 2 requested file v.mkv
+[14:06:16] Peer 2 requested file v.mkv
+[14:06:21] Peer 2 requested file v.mkv
+[14:06:26] Peer 2 requested file v.mkv
+[14:06:30] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:06:31] Peer 2 requested file v.mkv
+[14:06:36] Peer 2 requested file v.mkv
+[14:06:41] Peer 2 requested file v.mkv
+[14:06:46] Peer 2 requested file v.mkv
+[14:06:51] Peer 2 requested file v.mkv
+[14:06:56] Peer 2 requested file v.mkv
+[14:07:01] Peer 2 requested file v.mkv
+[14:07:02] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:07:06] Peer 2 requested file v.mkv
+[14:07:11] Peer 2 requested file v.mkv
+[14:07:16] Peer 2 requested file v.mkv
+[14:07:21] Peer 2 requested file v.mkv
+[14:07:26] Peer 2 requested file v.mkv
+[14:07:31] Peer 2 requested file v.mkv
+[14:07:34] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:07:36] Peer 2 requested file v.mkv
+[14:07:41] Peer 2 requested file v.mkv
+[14:07:46] Peer 2 requested file v.mkv
+[14:07:51] Peer 2 requested file v.mkv
+[14:07:57] Peer 2 requested file v.mkv
+[14:08:02] Peer 2 requested file v.mkv
+[14:08:06] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:08:07] Peer 2 requested file v.mkv
+[14:08:12] Peer 2 requested file v.mkv
+[14:08:17] Peer 2 requested file v.mkv
+[14:08:22] Peer 2 requested file v.mkv
+[14:08:27] Peer 2 requested file v.mkv
+[14:08:32] Peer 2 requested file v.mkv
+[14:08:37] Peer 2 requested file v.mkv
+[14:08:38] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:08:42] Peer 2 requested file v.mkv
+[14:08:47] Peer 2 requested file v.mkv
+[14:08:52] Peer 2 requested file v.mkv
+[14:08:57] Peer 2 requested file v.mkv
+[14:09:02] Peer 2 requested file v.mkv
+[14:09:07] Peer 2 requested file v.mkv
+[14:09:10] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:09:12] Peer 2 requested file v.mkv
+[14:09:17] Peer 2 requested file v.mkv
+[14:09:22] Peer 2 requested file v.mkv
+[14:09:27] Peer 2 requested file v.mkv
+[14:09:32] Peer 2 requested file v.mkv
+[14:09:37] Peer 2 requested file v.mkv
+[14:09:42] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:10:14] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[14:30:27] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[14:30:30] Peer 1 registered as owner of file v.mkv
+[14:30:34] Peer 2 requested file v.mkv
+[14:30:34] Peer 2 requested file v.mkv
+[14:30:34] Peer 2 requested file v.mkv
+[14:30:39] Peer 2 requested file v.mkv
+[14:30:44] Peer 2 requested file v.mkv
+[14:30:49] Peer 2 requested file v.mkv
+[14:30:54] Peer 2 requested file v.mkv
+[14:30:57] Peer 3 registered as owner of file v.mkv
+[14:30:59] Peer 2 requested file v.mkv
+[14:30:59] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:31:04] Peer 2 requested file v.mkv
+[14:31:09] Peer 2 requested file v.mkv
+[14:31:14] Peer 2 requested file v.mkv
+[14:31:19] Peer 2 requested file v.mkv
+[14:31:24] Peer 2 requested file v.mkv
+[14:31:29] Peer 2 requested file v.mkv
+[14:31:31] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:31:34] Peer 2 requested file v.mkv
+[14:31:39] Peer 2 requested file v.mkv
+[14:31:44] Peer 2 requested file v.mkv
+[14:31:49] Peer 2 requested file v.mkv
+[14:31:54] Peer 2 requested file v.mkv
+[14:31:59] Peer 2 requested file v.mkv
+[14:32:03] Peer(s) [1, 2, 3, 4] is in torrent and peer(s) [] have left the torrent.
+[14:32:04] Peer 2 requested file v.mkv
+[14:32:08] Peer 4 registered as owner of file v.mkv
+[14:32:09] Peer 2 requested file v.mkv
+[14:32:14] Peer 2 requested file v.mkv
+[14:32:19] Peer 2 requested file v.mkv
+[14:32:24] Peer 2 requested file v.mkv
+[14:32:29] Peer 2 requested file v.mkv
+[14:32:34] Peer 2 requested file v.mkv
+[14:32:35] Peer(s) [1, 2, 3, 4] is in torrent and peer(s) [] have left the torrent.
+[14:32:39] Peer 2 requested file v.mkv
+[14:32:44] Peer 2 requested file v.mkv
+[14:32:49] Peer 2 requested file v.mkv
+[14:32:54] Peer 2 requested file v.mkv
+[14:32:59] Peer 2 requested file v.mkv
+[14:33:04] Peer 2 requested file v.mkv
+[14:33:07] Peer(s) [1, 2] is in torrent and peer(s) [3] have left the torrent.
+[14:33:09] Peer 2 requested file v.mkv
+[14:33:14] Peer 2 requested file v.mkv
+[14:33:19] Peer 2 requested file v.mkv
+[14:33:24] Peer 2 requested file v.mkv
+[14:33:29] Peer 2 requested file v.mkv
+[14:33:34] Peer 2 requested file v.mkv
+[14:33:39] Peer(s) [1, 2, 4] is in torrent and peer(s) [] have left the torrent.
+[14:33:39] Peer 2 requested file v.mkv
+[14:33:43] Peer 3 registered as owner of file v.mkv
+[14:33:44] Peer 2 requested file v.mkv
+[14:33:50] Peer 2 requested file v.mkv
+[14:33:55] Peer 2 requested file v.mkv
+[14:34:00] Peer 2 requested file v.mkv
+[14:34:05] Peer 2 requested file v.mkv
+[14:34:10] Peer 2 requested file v.mkv
+[14:34:11] Peer(s) [1, 2] is in torrent and peer(s) [4] have left the torrent.
+[14:34:15] Peer 2 requested file v.mkv
+[14:34:20] Peer 2 requested file v.mkv
+[14:34:25] Peer 2 requested file v.mkv
+[14:34:30] Peer 2 requested file v.mkv
+[14:34:35] Peer 2 requested file v.mkv
+[14:34:40] Peer 2 requested file v.mkv
+[14:34:43] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:34:45] Peer 2 requested file v.mkv
+[14:34:50] Peer 2 requested file v.mkv
+[14:34:55] Peer 2 requested file v.mkv
+[14:35:00] Peer 2 requested file v.mkv
+[14:35:05] Peer 2 requested file v.mkv
+[14:35:10] Peer 2 requested file v.mkv
+[14:35:15] Peer 2 requested file v.mkv
+[14:35:15] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:35:20] Peer 2 requested file v.mkv
+[14:35:25] Peer 2 requested file v.mkv
+[14:35:30] Peer 2 requested file v.mkv
+[14:35:35] Peer 2 requested file v.mkv
+[14:35:40] Peer 2 requested file v.mkv
+[14:35:45] Peer 2 requested file v.mkv
+[14:35:47] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:35:50] Peer 2 requested file v.mkv
+[14:38:30] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[14:38:48] Peer 1 registered as owner of file v.mkv
+[14:38:55] Peer 2 requested file v.mkv
+[14:38:55] Peer 2 requested file v.mkv
+[14:38:55] Peer 2 requested file v.mkv
+[14:39:00] Peer 2 requested file v.mkv
+[14:39:02] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:39:05] Peer 2 requested file v.mkv
+[14:39:10] Peer 2 requested file v.mkv
+[14:39:10] Peer 3 registered as owner of file v.mkv
+[14:39:15] Peer 2 requested file v.mkv
+[14:39:20] Peer 2 requested file v.mkv
+[14:39:25] Peer 2 requested file v.mkv
+[14:39:30] Peer 2 requested file v.mkv
+[14:39:34] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[14:39:35] Peer 2 requested file v.mkv
+[14:39:40] Peer 2 requested file v.mkv
+[14:39:45] Peer 2 requested file v.mkv
+[14:39:50] Peer 2 requested file v.mkv
+[14:39:55] Peer 2 requested file v.mkv
+[14:40:00] Peer 2 requested file v.mkv
+[14:40:05] Peer 2 requested file v.mkv
+[14:40:06] Peer(s) [] is in torrent and peer(s) [3] have left the torrent.
+[14:40:10] Peer 2 requested file v.mkv
+[14:40:15] Peer 2 requested file v.mkv
+[14:40:20] Peer 2 requested file v.mkv
+[14:40:25] Peer 2 requested file v.mkv
+[14:40:30] Peer 2 requested file v.mkv
+[14:40:35] Peer 2 requested file v.mkv
+[14:40:38] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:40:40] Peer 2 requested file v.mkv
+[14:40:41] Peer 1 registered as owner of file v.mkv
+[14:40:45] Peer 2 requested file v.mkv
+[14:40:50] Peer 2 requested file v.mkv
+[14:41:03] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[14:41:06] Peer 1 registered as owner of file v.mkv
+[14:41:27] Peer 2 requested file v.mkv
+[14:41:27] Peer 2 requested file v.mkv
+[14:41:35] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[14:41:53] Peer 2 requested file v.mkv
+[14:41:53] Peer 2 requested file v.mkv
+[14:41:58] Peer 2 requested file v.mkv
+[14:42:03] Peer 2 requested file v.mkv
+[14:42:07] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[14:42:08] Peer 2 requested file v.mkv
+[14:42:13] Peer 2 requested file v.mkv
+[14:42:13] Peer 3 registered as owner of file v.mkv
+[14:42:18] Peer 2 requested file v.mkv
+[14:42:23] Peer 2 requested file v.mkv
+[14:42:28] Peer 2 requested file v.mkv
+[14:42:33] Peer 2 requested file v.mkv
+[14:42:38] Peer 2 requested file v.mkv
+[14:42:39] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:42:43] Peer 2 requested file v.mkv
+[14:42:48] Peer 2 requested file v.mkv
+[14:42:53] Peer 2 requested file v.mkv
+[14:42:58] Peer 2 requested file v.mkv
+[14:43:03] Peer 2 requested file v.mkv
+[14:43:08] Peer 2 requested file v.mkv
+[14:43:11] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:43:13] Peer 2 requested file v.mkv
+[14:43:18] Peer 2 requested file v.mkv
+[14:43:23] Peer 2 requested file v.mkv
+[14:43:28] Peer 2 requested file v.mkv
+[14:43:33] Peer 2 requested file v.mkv
+[14:43:38] Peer 2 requested file v.mkv
+[14:43:43] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:43:43] Peer 2 requested file v.mkv
+[14:43:48] Peer 2 requested file v.mkv
+[14:43:53] Peer 2 requested file v.mkv
+[14:43:58] Peer 2 requested file v.mkv
+[14:44:03] Peer 2 requested file v.mkv
+[14:44:08] Peer 2 requested file v.mkv
+[14:44:13] Peer 2 requested file v.mkv
+[14:44:15] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:44:18] Peer 2 requested file v.mkv
+[14:44:23] Peer 2 requested file v.mkv
+[14:44:28] Peer 2 requested file v.mkv
+[14:44:34] Peer 2 requested file v.mkv
+[14:44:39] Peer 2 requested file v.mkv
+[14:44:44] Peer 2 requested file v.mkv
+[14:44:47] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:44:49] Peer 2 requested file v.mkv
+[14:44:54] Peer 2 requested file v.mkv
+[14:44:59] Peer 2 requested file v.mkv
+[14:45:04] Peer 2 requested file v.mkv
+[14:45:09] Peer 2 requested file v.mkv
+[14:45:14] Peer 2 requested file v.mkv
+[14:45:19] Peer 2 requested file v.mkv
+[14:45:19] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:45:24] Peer 2 requested file v.mkv
+[14:45:29] Peer 2 requested file v.mkv
+[14:45:34] Peer 2 requested file v.mkv
+[14:45:39] Peer 2 requested file v.mkv
+[14:45:44] Peer 2 requested file v.mkv
+[14:45:49] Peer 2 requested file v.mkv
+[14:45:51] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:46:00] Peer 2 registered as owner of file v.mkv
+[14:46:23] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:46:55] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:47:27] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:47:59] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:48:31] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:49:03] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:49:35] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:50:07] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:50:39] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:51:11] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:51:43] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[14:52:05] Peer 2 requested file v.mkv
+[14:52:05] Peer 2 requested file v.mkv
+[14:52:10] Peer 2 requested file v.mkv
+[14:52:15] Peer 2 requested file v.mkv
+[14:52:15] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:52:20] Peer 2 requested file v.mkv
+[14:52:29] Peer 2 requested file v.mkv
+[14:52:47] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[14:53:19] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[14:53:32] Peer 2 requested file v.mkv
+[14:53:32] Peer 2 requested file v.mkv
+[14:53:37] Peer 2 requested file v.mkv
+[14:53:43] Peer 2 requested file v.mkv
+[14:53:43] Peer 2 requested file v.mkv
+[14:53:48] Peer 2 requested file v.mkv
+[14:53:51] Peer(s) [1] is in torrent and peer(s) [3] have left the torrent.
+[14:53:53] Peer 2 requested file v.mkv
+[14:53:58] Peer 2 requested file v.mkv
+[14:54:23] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[14:54:55] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[14:55:27] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[14:55:59] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[14:56:10] Peer 3 registered as owner of file v.mkv
+[14:56:23] Peer 2 requested file v.mkv
+[14:56:23] Peer 2 requested file v.mkv
+[14:56:28] Peer 2 requested file v.mkv
+[14:56:31] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:56:33] Peer 2 requested file v.mkv
+[14:56:38] Peer 2 requested file v.mkv
+[14:56:43] Peer 2 requested file v.mkv
+[14:56:48] Peer 2 requested file v.mkv
+[14:56:54] Peer 2 requested file v.mkv
+[14:57:03] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[14:57:35] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[14:58:07] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[15:00:22] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[15:00:27] Peer 3 registered as owner of file v.mkv
+[15:00:29] Peer 1 registered as owner of file v.mkv
+[15:00:41] Peer 2 requested file v.mkv
+[15:00:41] Peer 2 requested file v.mkv
+[15:00:41] Peer 2 requested file v.mkv
+[15:00:46] Peer 2 requested file v.mkv
+[15:00:51] Peer 2 requested file v.mkv
+[15:00:54] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:00:56] Peer 2 requested file v.mkv
+[15:01:01] Peer 2 requested file v.mkv
+[15:01:07] Peer 2 requested file v.mkv
+[15:01:26] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:01:58] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:02:30] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:03:02] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[15:03:34] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[15:04:03] Peer 2 requested file v.mkv
+[15:04:03] Peer 2 requested file v.mkv
+[15:04:06] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:04:08] Peer 2 requested file v.mkv
+[15:04:13] Peer 2 requested file v.mkv
+[15:04:18] Peer 2 requested file v.mkv
+[15:04:18] Peer 2 requested file v.mkv
+[15:04:23] Peer 2 requested file v.mkv
+[15:04:27] Peer 2 requested file v.mkv
+[15:04:38] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:05:10] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:05:42] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:06:14] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:06:46] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[15:06:55] Peer 2 requested file v.mkv
+[15:06:55] Peer 2 requested file v.mkv
+[15:07:00] Peer 2 requested file v.mkv
+[15:07:05] Peer 2 requested file v.mkv
+[15:07:10] Peer 2 requested file v.mkv
+[15:07:10] Peer 2 requested file v.mkv
+[15:07:15] Peer 2 requested file v.mkv
+[15:07:18] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:07:20] Peer 2 requested file v.mkv
+[15:07:21] Peer 2 requested file v.mkv
+[15:07:26] Peer 2 requested file v.mkv
+[15:07:31] Peer 2 requested file v.mkv
+[15:07:36] Peer 2 requested file v.mkv
+[15:07:40] Peer 2 requested file v.mkv
+[15:07:40] Peer 2 requested file v.mkv
+[15:07:45] Peer 2 requested file v.mkv
+[15:07:50] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:08:22] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:08:23] Peer 2 requested file v.mkv
+[15:08:23] Peer 2 requested file v.mkv
+[15:08:28] Peer 2 requested file v.mkv
+[15:08:33] Peer 2 requested file v.mkv
+[15:08:38] Peer 2 requested file v.mkv
+[15:08:43] Peer 2 requested file v.mkv
+[15:08:48] Peer 2 requested file v.mkv
+[15:08:54] Peer 2 requested file v.mkv
+[15:08:54] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:08:58] Peer 2 requested file v.mkv
+[15:08:58] Peer 2 requested file v.mkv
+[15:09:26] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:09:58] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:10:30] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:11:02] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:11:34] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:12:06] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[15:12:34] Peer 2 requested file v.mkv
+[15:12:34] Peer 2 requested file v.mkv
+[15:12:38] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:12:39] Peer 2 requested file v.mkv
+[15:12:44] Peer 2 requested file v.mkv
+[15:12:49] Peer 2 requested file v.mkv
+[15:12:54] Peer 2 requested file v.mkv
+[15:13:00] Peer 2 requested file v.mkv
+[15:13:10] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:13:35] Peer 2 requested file v.mkv
+[15:13:35] Peer 2 requested file v.mkv
+[15:13:40] Peer 2 requested file v.mkv
+[15:13:42] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:13:45] Peer 2 requested file v.mkv
+[15:13:50] Peer 2 requested file v.mkv
+[15:13:55] Peer 2 requested file v.mkv
+[15:14:00] Peer 2 requested file v.mkv
+[15:14:14] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:14:15] Peer 2 requested file v.mkv
+[15:14:15] Peer 2 requested file v.mkv
+[15:14:20] Peer 2 requested file v.mkv
+[15:14:25] Peer 2 requested file v.mkv
+[15:14:25] Peer 2 requested file v.mkv
+[15:14:30] Peer 2 requested file v.mkv
+[15:14:43] Peer 2 requested file v.mkv
+[15:14:44] Peer 2 requested file v.mkv
+[15:14:46] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:14:49] Peer 2 requested file v.mkv
+[15:14:54] Peer 2 requested file v.mkv
+[15:14:57] Peer 2 requested file v.mkv
+[15:14:57] Peer 2 requested file v.mkv
+[15:15:02] Peer 2 requested file v.mkv
+[15:15:07] Peer 2 requested file v.mkv
+[15:15:13] Peer 2 requested file v.mkv
+[15:15:18] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:15:50] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:16:22] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:16:54] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:17:26] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:17:58] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:18:30] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:18:54] Peer 2 requested file v.mkv
+[15:18:55] Peer 2 requested file v.mkv
+[15:19:00] Peer 2 requested file v.mkv
+[15:19:02] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:19:09] Peer 2 requested file v.mkv
+[15:19:09] Peer 2 requested file v.mkv
+[15:19:34] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[15:19:38] Peer 2 requested file v.mkv
+[15:19:51] Peer 2 requested file v.mkv
+[15:19:51] Peer 2 requested file v.mkv
+[15:19:56] Peer 2 requested file v.mkv
+[15:20:01] Peer 2 requested file v.mkv
+[15:20:06] Peer 2 requested file v.mkv
+[15:20:06] Peer(s) [1] is in torrent and peer(s) [3] have left the torrent.
+[15:20:11] Peer 2 requested file v.mkv
+[15:20:16] Peer 2 requested file v.mkv
+[15:20:21] Peer 2 requested file v.mkv
+[15:20:21] Peer 2 requested file v.mkv
+[15:20:26] Peer 2 requested file v.mkv
+[15:20:31] Peer 2 requested file v.mkv
+[15:20:37] Peer 2 requested file v.mkv
+[15:20:38] Peer 2 requested file v.mkv
+[15:20:38] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[15:20:43] Peer 2 requested file v.mkv
+[15:20:48] Peer 2 requested file v.mkv
+[15:20:53] Peer 2 requested file v.mkv
+[15:20:57] Peer 3 registered as owner of file v.mkv
+[15:20:58] Peer 2 requested file v.mkv
+[15:21:03] Peer 2 requested file v.mkv
+[15:21:08] Peer 2 requested file v.mkv
+[15:21:10] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:21:13] Peer 2 requested file v.mkv
+[15:21:18] Peer 2 requested file v.mkv
+[15:21:23] Peer 2 requested file v.mkv
+[15:21:28] Peer 2 requested file v.mkv
+[15:21:33] Peer 2 requested file v.mkv
+[15:21:38] Peer 2 requested file v.mkv
+[15:21:42] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[15:21:43] Peer 2 requested file v.mkv
+[15:21:48] Peer 2 requested file v.mkv
+[15:21:53] Peer 2 requested file v.mkv
+[15:21:58] Peer 2 requested file v.mkv
+[15:22:03] Peer 2 requested file v.mkv
+[15:22:12] Peer 2 requested file v.mkv
+[15:22:14] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[15:22:31] Peer 2 requested file v.mkv
+[15:22:46] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[15:22:53] Peer 2 requested file v.mkv
+[15:22:53] Peer 2 requested file v.mkv
+[15:22:58] Peer 2 requested file v.mkv
+[15:23:03] Peer 2 requested file v.mkv
+[15:23:08] Peer 2 requested file v.mkv
+[15:23:13] Peer 2 requested file v.mkv
+[15:23:18] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[15:23:19] Peer 2 requested file v.mkv
+[15:23:19] Peer 2 requested file v.mkv
+[15:23:24] Peer 2 requested file v.mkv
+[15:23:29] Peer 2 requested file v.mkv
+[15:23:34] Peer 2 requested file v.mkv
+[15:23:43] Peer 2 requested file v.mkv
+[15:23:43] Peer 2 requested file v.mkv
+[15:23:48] Peer 2 requested file v.mkv
+[15:23:50] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:23:53] Peer 2 requested file v.mkv
+[15:23:57] Peer 3 registered as owner of file v.mkv
+[15:23:58] Peer 2 requested file v.mkv
+[15:24:03] Peer 2 requested file v.mkv
+[15:24:08] Peer 2 requested file v.mkv
+[15:24:13] Peer 2 requested file v.mkv
+[15:24:16] Peer 3 registered as owner of file v.mkv
+[15:24:18] Peer 2 requested file v.mkv
+[15:24:22] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[15:24:23] Peer 2 requested file v.mkv
+[15:24:28] Peer 2 requested file v.mkv
+[15:24:54] Peer(s) [1] is in torrent and peer(s) [3] have left the torrent.
+[15:25:21] Peer 1 registered as owner of file v.mkv
+[15:25:25] Peer 2 requested file v.mkv
+[15:25:26] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[15:25:48] Peer 2 requested file v.mkv
+[15:25:58] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[15:25:59] Peer 1 registered as owner of file v.mkv
+[15:26:04] Peer 2 requested file v.mkv
+[15:26:04] Peer 2 requested file v.mkv
+[15:26:09] Peer 2 requested file v.mkv
+[15:26:14] Peer 2 requested file v.mkv
+[15:26:15] Peer 3 registered as owner of file v.mkv
+[15:26:19] Peer 2 requested file v.mkv
+[15:26:24] Peer 2 requested file v.mkv
+[15:26:29] Peer 2 requested file v.mkv
+[15:26:30] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[15:26:34] Peer 2 requested file v.mkv
+[15:26:39] Peer 2 requested file v.mkv
+[15:26:44] Peer 2 requested file v.mkv
+[15:26:49] Peer 2 requested file v.mkv
+[15:26:54] Peer 2 requested file v.mkv
+[15:26:59] Peer 2 requested file v.mkv
+[15:27:02] Peer(s) [3] is in torrent and peer(s) [2] have left the torrent.
+[15:27:05] Peer 2 requested file v.mkv
+[15:27:10] Peer 2 requested file v.mkv
+[15:27:15] Peer 2 requested file v.mkv
+[15:27:20] Peer 2 requested file v.mkv
+[15:27:25] Peer 2 requested file v.mkv
+[15:27:30] Peer 2 requested file v.mkv
+[15:27:34] Peer(s) [] is in torrent and peer(s) [3] have left the torrent.
+[15:27:35] Peer 2 requested file v.mkv
+[15:27:40] Peer 2 requested file v.mkv
+[15:27:45] Peer 2 requested file v.mkv
+[15:27:50] Peer 2 requested file v.mkv
+[15:27:55] Peer 2 requested file v.mkv
+[15:28:00] Peer 2 requested file v.mkv
+[15:28:05] Peer 2 requested file v.mkv
+[15:28:06] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[15:28:10] Peer 2 requested file v.mkv
+[15:28:15] Peer 2 requested file v.mkv
+[15:28:20] Peer 2 requested file v.mkv
+[15:28:25] Peer 2 requested file v.mkv
+[15:28:30] Peer 2 requested file v.mkv
+[15:29:59] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[15:30:02] Peer 1 registered as owner of file v.mkv
+[15:30:06] Peer 2 requested file v.mkv
+[15:30:06] Peer 2 requested file v.mkv
+[15:30:06] Peer 2 requested file v.mkv
+[15:30:11] Peer 2 requested file v.mkv
+[15:30:17] Peer 2 requested file v.mkv
+[15:30:22] Peer 2 requested file v.mkv
+[15:30:26] Peer 3 registered as owner of file v.mkv
+[15:30:27] Peer 2 requested file v.mkv
+[15:30:31] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:30:32] Peer 2 requested file v.mkv
+[15:30:37] Peer 2 requested file v.mkv
+[15:30:42] Peer 2 requested file v.mkv
+[15:30:47] Peer 2 requested file v.mkv
+[15:30:52] Peer 2 requested file v.mkv
+[15:30:57] Peer 2 requested file v.mkv
+[15:31:02] Peer 2 requested file v.mkv
+[15:31:03] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:31:07] Peer 2 requested file v.mkv
+[15:31:12] Peer 2 requested file v.mkv
+[15:31:17] Peer 2 requested file v.mkv
+[15:31:22] Peer 2 requested file v.mkv
+[15:31:27] Peer 2 requested file v.mkv
+[15:31:32] Peer 2 requested file v.mkv
+[15:31:35] Peer(s) [1, 2] is in torrent and peer(s) [3] have left the torrent.
+[15:31:37] Peer 2 requested file v.mkv
+[15:31:40] Peer 3 registered as owner of file v.mkv
+[15:31:42] Peer 2 requested file v.mkv
+[15:31:47] Peer 2 requested file v.mkv
+[15:31:52] Peer 2 requested file v.mkv
+[15:31:57] Peer 2 requested file v.mkv
+[15:32:02] Peer 2 requested file v.mkv
+[15:32:07] Peer 2 requested file v.mkv
+[15:32:07] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:32:12] Peer 2 requested file v.mkv
+[15:32:17] Peer 2 requested file v.mkv
+[15:32:22] Peer 2 requested file v.mkv
+[15:32:27] Peer 2 requested file v.mkv
+[15:32:32] Peer 2 requested file v.mkv
+[15:32:37] Peer 2 requested file v.mkv
+[15:32:39] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:32:42] Peer 2 requested file v.mkv
+[15:32:47] Peer 2 requested file v.mkv
+[15:32:52] Peer 2 requested file v.mkv
+[15:32:57] Peer 2 requested file v.mkv
+[15:33:02] Peer 2 requested file v.mkv
+[15:33:07] Peer 2 requested file v.mkv
+[15:33:11] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:33:12] Peer 2 requested file v.mkv
+[15:33:17] Peer 2 requested file v.mkv
+[15:33:22] Peer 2 requested file v.mkv
+[15:33:27] Peer 2 requested file v.mkv
+[15:33:32] Peer 2 requested file v.mkv
+[15:33:36] Peer 3 registered as owner of file v.mkv
+[15:33:38] Peer 2 requested file v.mkv
+[15:33:43] Peer 2 requested file v.mkv
+[15:33:43] Peer(s) [1, 2] is in torrent and peer(s) [3] have left the torrent.
+[15:33:48] Peer 2 requested file v.mkv
+[15:33:53] Peer 2 requested file v.mkv
+[15:33:58] Peer 2 requested file v.mkv
+[15:34:03] Peer 2 requested file v.mkv
+[15:34:08] Peer 2 requested file v.mkv
+[15:34:13] Peer 2 requested file v.mkv
+[15:34:15] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:34:18] Peer 2 requested file v.mkv
+[15:34:23] Peer 2 requested file v.mkv
+[15:34:28] Peer 2 requested file v.mkv
+[15:34:33] Peer 2 requested file v.mkv
+[15:34:38] Peer 2 requested file v.mkv
+[15:34:43] Peer 2 requested file v.mkv
+[15:34:47] Peer(s) [1, 2] is in torrent and peer(s) [3] have left the torrent.
+[15:34:53] Peer 2 registered as owner of file v.mkv
+[15:35:19] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[15:35:51] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[15:36:23] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[15:36:55] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[15:37:27] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[15:39:04] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[15:39:06] Peer 1 registered as owner of file v.mkv
+[15:39:36] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[15:39:51] Peer 2 requested file v.mkv
+[15:39:51] Peer 2 requested file v.mkv
+[15:39:51] Peer 2 requested file v.mkv
+[15:39:56] Peer 2 requested file v.mkv
+[15:40:01] Peer 2 requested file v.mkv
+[15:40:06] Peer 2 requested file v.mkv
+[15:40:08] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[15:40:11] Peer 2 requested file v.mkv
+[15:40:16] Peer 2 requested file v.mkv
+[15:40:20] Peer 2 requested file v.mkv
+[15:40:21] Peer 2 requested file v.mkv
+[15:40:27] Peer 2 requested file v.mkv
+[15:40:28] Peer 2 requested file v.mkv
+[15:40:33] Peer 2 requested file v.mkv
+[15:40:38] Peer 2 requested file v.mkv
+[15:40:40] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[15:40:43] Peer 2 requested file v.mkv
+[15:40:45] Peer 3 registered as owner of file v.mkv
+[15:40:48] Peer 2 requested file v.mkv
+[15:40:53] Peer 2 requested file v.mkv
+[15:40:58] Peer 2 requested file v.mkv
+[15:41:03] Peer 2 requested file v.mkv
+[15:41:08] Peer 2 requested file v.mkv
+[15:41:12] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[15:41:13] Peer 2 requested file v.mkv
+[15:41:18] Peer 2 requested file v.mkv
+[15:41:23] Peer 2 requested file v.mkv
+[15:41:28] Peer 2 requested file v.mkv
+[15:41:33] Peer 2 requested file v.mkv
+[15:41:38] Peer 2 requested file v.mkv
+[15:41:43] Peer 2 requested file v.mkv
+[15:41:44] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[15:41:44] Peer 3 registered as owner of file v.mkv
+[15:41:48] Peer 2 requested file v.mkv
+[15:41:53] Peer 2 requested file v.mkv
+[15:41:58] Peer 2 requested file v.mkv
+[15:42:03] Peer 2 requested file v.mkv
+[15:42:08] Peer 2 requested file v.mkv
+[15:42:13] Peer 2 requested file v.mkv
+[15:42:16] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:42:18] Peer 2 requested file v.mkv
+[15:42:23] Peer 2 requested file v.mkv
+[15:42:28] Peer 2 requested file v.mkv
+[15:42:33] Peer 2 requested file v.mkv
+[15:44:17] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[15:44:21] Peer 1 registered as owner of file v.mkv
+[15:44:25] Peer 2 requested file v.mkv
+[15:44:25] Peer 2 requested file v.mkv
+[15:44:25] Peer 2 requested file v.mkv
+[15:44:30] Peer 2 requested file v.mkv
+[15:44:35] Peer 2 requested file v.mkv
+[15:44:42] Peer 2 requested file v.mkv
+[15:44:42] Peer 2 requested file v.mkv
+[15:44:47] Peer 2 requested file v.mkv
+[15:44:49] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[15:44:51] Peer 3 registered as owner of file v.mkv
+[15:44:52] Peer 2 requested file v.mkv
+[15:44:57] Peer 2 requested file v.mkv
+[15:45:02] Peer 2 requested file v.mkv
+[15:45:07] Peer 2 requested file v.mkv
+[15:45:12] Peer 2 requested file v.mkv
+[15:45:17] Peer 2 requested file v.mkv
+[15:45:21] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[15:45:22] Peer 2 requested file v.mkv
+[15:45:27] Peer 2 requested file v.mkv
+[15:45:32] Peer 2 requested file v.mkv
+[15:45:37] Peer 2 requested file v.mkv
+[15:45:42] Peer 2 requested file v.mkv
+[15:45:42] Peer 3 registered as owner of file v.mkv
+[15:45:47] Peer 2 requested file v.mkv
+[15:46:02] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[15:46:06] Peer 1 registered as owner of file v.mkv
+[15:46:12] Peer 2 requested file v.mkv
+[15:46:12] Peer 2 requested file v.mkv
+[15:46:12] Peer 2 requested file v.mkv
+[15:46:17] Peer 2 requested file v.mkv
+[15:46:18] Peer 3 registered as owner of file v.mkv
+[15:46:22] Peer 2 requested file v.mkv
+[15:46:27] Peer 2 requested file v.mkv
+[15:46:32] Peer 2 requested file v.mkv
+[15:46:34] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:46:37] Peer 2 requested file v.mkv
+[15:46:42] Peer 2 requested file v.mkv
+[15:46:47] Peer 2 requested file v.mkv
+[15:46:52] Peer 2 requested file v.mkv
+[15:46:57] Peer 2 requested file v.mkv
+[15:47:02] Peer 2 requested file v.mkv
+[15:47:06] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:47:07] Peer 2 requested file v.mkv
+[15:47:12] Peer 2 requested file v.mkv
+[15:47:16] Peer 3 registered as owner of file v.mkv
+[15:47:17] Peer 2 requested file v.mkv
+[15:47:22] Peer 2 requested file v.mkv
+[15:47:27] Peer 2 requested file v.mkv
+[15:47:32] Peer 2 requested file v.mkv
+[15:47:37] Peer 2 requested file v.mkv
+[15:47:38] Peer(s) [1, 2] is in torrent and peer(s) [3] have left the torrent.
+[15:47:42] Peer 2 requested file v.mkv
+[15:47:47] Peer 2 requested file v.mkv
+[15:47:52] Peer 2 requested file v.mkv
+[15:47:54] Peer 3 registered as owner of file v.mkv
+[15:47:57] Peer 2 requested file v.mkv
+[15:48:02] Peer 2 requested file v.mkv
+[15:48:07] Peer 2 requested file v.mkv
+[15:48:10] Peer(s) [1, 2] is in torrent and peer(s) [3] have left the torrent.
+[15:48:12] Peer 2 requested file v.mkv
+[15:48:17] Peer 2 requested file v.mkv
+[15:48:22] Peer 2 requested file v.mkv
+[15:48:27] Peer 2 requested file v.mkv
+[15:48:32] Peer 2 requested file v.mkv
+[15:48:37] Peer 2 requested file v.mkv
+[15:48:42] Peer 2 requested file v.mkv
+[15:48:42] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[15:48:47] Peer 2 requested file v.mkv
+[15:48:52] Peer 2 requested file v.mkv
+[15:48:57] Peer 2 requested file v.mkv
+[15:49:02] Peer 2 requested file v.mkv
+[15:49:07] Peer 2 requested file v.mkv
+[15:49:12] Peer 2 requested file v.mkv
+[15:49:12] Peer 1 registered as owner of file v.mkv
+[15:49:14] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:49:17] Peer 2 requested file v.mkv
+[15:49:22] Peer 2 requested file v.mkv
+[15:49:27] Peer 2 requested file v.mkv
+[15:49:32] Peer 2 requested file v.mkv
+[15:49:37] Peer 2 requested file v.mkv
+[15:49:42] Peer 2 requested file v.mkv
+[15:49:46] Peer(s) [] is in torrent and peer(s) [2] have left the torrent.
+[15:50:18] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:50:50] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:51:22] Peer(s) [] is in torrent and peer(s) [3] have left the torrent.
+[15:51:54] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[15:53:14] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[15:53:18] Peer 1 registered as owner of file v.mkv
+[15:53:25] Peer 4 registered as owner of file v.mkv
+[15:53:35] Peer 2 requested file v.mkv
+[15:53:35] Peer 2 requested file v.mkv
+[15:53:46] Peer(s) [1, 2, 4] is in torrent and peer(s) [] have left the torrent.
+[15:53:52] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[15:54:00] Peer 1 registered as owner of file v.mkv
+[15:54:02] Peer 2 requested file v.mkv
+[15:54:02] Peer 2 requested file v.mkv
+[15:54:02] Peer 2 requested file v.mkv
+[15:54:07] Peer 2 requested file v.mkv
+[15:54:11] Peer 3 registered as owner of file v.mkv
+[15:54:12] Peer 2 requested file v.mkv
+[15:54:17] Peer 2 requested file v.mkv
+[15:54:22] Peer 2 requested file v.mkv
+[15:54:24] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:54:27] Peer 2 requested file v.mkv
+[15:54:32] Peer 2 requested file v.mkv
+[15:54:38] Peer 2 requested file v.mkv
+[15:54:43] Peer 2 requested file v.mkv
+[15:54:48] Peer 2 requested file v.mkv
+[15:54:53] Peer 2 requested file v.mkv
+[15:54:56] Peer(s) [1, 2] is in torrent and peer(s) [3] have left the torrent.
+[15:54:58] Peer 2 requested file v.mkv
+[15:55:01] Peer 3 registered as owner of file v.mkv
+[15:55:03] Peer 2 requested file v.mkv
+[15:55:08] Peer 2 requested file v.mkv
+[15:55:13] Peer 2 requested file v.mkv
+[15:55:18] Peer 2 requested file v.mkv
+[15:55:23] Peer 2 requested file v.mkv
+[15:55:28] Peer 2 requested file v.mkv
+[15:55:28] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:55:33] Peer 2 requested file v.mkv
+[15:55:38] Peer 2 requested file v.mkv
+[15:55:43] Peer 2 requested file v.mkv
+[15:55:48] Peer 2 requested file v.mkv
+[15:55:53] Peer 2 requested file v.mkv
+[15:55:58] Peer 2 requested file v.mkv
+[15:56:00] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:56:03] Peer 2 requested file v.mkv
+[15:56:08] Peer 2 requested file v.mkv
+[15:56:13] Peer 2 requested file v.mkv
+[15:56:18] Peer 2 requested file v.mkv
+[15:56:23] Peer 2 requested file v.mkv
+[15:56:28] Peer 2 requested file v.mkv
+[15:56:32] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:56:33] Peer 2 requested file v.mkv
+[15:56:38] Peer 2 requested file v.mkv
+[15:56:43] Peer 2 requested file v.mkv
+[15:56:48] Peer 2 requested file v.mkv
+[15:56:53] Peer 2 requested file v.mkv
+[15:56:58] Peer 2 requested file v.mkv
+[15:57:03] Peer 2 requested file v.mkv
+[15:57:04] Peer(s) [1, 2] is in torrent and peer(s) [3] have left the torrent.
+[15:57:08] Peer 2 requested file v.mkv
+[15:57:08] Peer 3 registered as owner of file v.mkv
+[15:57:13] Peer 2 requested file v.mkv
+[15:57:18] Peer 2 requested file v.mkv
+[15:57:23] Peer 2 requested file v.mkv
+[15:57:28] Peer 2 requested file v.mkv
+[15:57:33] Peer 2 requested file v.mkv
+[15:57:36] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[15:57:38] Peer 2 requested file v.mkv
+[15:57:43] Peer 2 requested file v.mkv
+[15:57:48] Peer 2 requested file v.mkv
+[15:57:53] Peer 2 requested file v.mkv
+[15:57:58] Peer 2 requested file v.mkv
+[15:58:03] Peer 2 requested file v.mkv
+[15:58:08] Peer(s) [1, 2] is in torrent and peer(s) [3] have left the torrent.
+[15:58:08] Peer 2 requested file v.mkv
+[15:58:13] Peer 2 requested file v.mkv
+[15:58:18] Peer 2 requested file v.mkv
+[15:58:23] Peer 2 requested file v.mkv
+[15:58:28] Peer 2 requested file v.mkv
+[15:58:33] Peer 2 requested file v.mkv
+[15:58:38] Peer 2 requested file v.mkv
+[15:58:40] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[15:58:43] Peer 2 requested file v.mkv
+[15:58:48] Peer 2 requested file v.mkv
+[15:58:53] Peer 2 requested file v.mkv
+[15:58:59] Peer 2 requested file v.mkv
+[15:59:04] Peer 2 requested file v.mkv
+[15:59:09] Peer 2 requested file v.mkv
+[15:59:12] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[15:59:14] Peer 2 requested file v.mkv
+[16:00:56] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[16:00:59] Peer 1 registered as owner of file v.mkv
+[16:01:04] Peer 2 requested file v.mkv
+[16:01:04] Peer 2 requested file v.mkv
+[16:01:04] Peer 2 requested file v.mkv
+[16:01:09] Peer 2 requested file v.mkv
+[16:01:11] Peer 3 registered as owner of file v.mkv
+[16:01:14] Peer 2 requested file v.mkv
+[16:01:19] Peer 2 requested file v.mkv
+[16:01:24] Peer 2 requested file v.mkv
+[16:01:28] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:01:29] Peer 2 requested file v.mkv
+[16:01:34] Peer 2 requested file v.mkv
+[16:01:39] Peer 2 requested file v.mkv
+[16:01:44] Peer 2 requested file v.mkv
+[16:01:49] Peer 2 requested file v.mkv
+[16:01:55] Peer 2 requested file v.mkv
+[16:02:00] Peer 2 requested file v.mkv
+[16:02:00] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:02:05] Peer 2 requested file v.mkv
+[16:02:10] Peer 2 requested file v.mkv
+[16:02:15] Peer 2 requested file v.mkv
+[16:02:20] Peer 2 requested file v.mkv
+[16:02:25] Peer 2 requested file v.mkv
+[16:02:32] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:03:04] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:03:36] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:04:08] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:04:40] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:05:12] Peer(s) [1, 2] is in torrent and peer(s) [3] have left the torrent.
+[16:05:44] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:07:25] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[16:07:28] Peer 1 registered as owner of file v.mkv
+[16:07:33] Peer 2 requested file v.mkv
+[16:07:33] Peer 2 requested file v.mkv
+[16:07:33] Peer 2 requested file v.mkv
+[16:07:38] Peer 2 requested file v.mkv
+[16:07:43] Peer 2 requested file v.mkv
+[16:07:48] Peer 2 requested file v.mkv
+[16:07:48] Peer 3 registered as owner of file v.mkv
+[16:07:53] Peer 2 requested file v.mkv
+[16:07:57] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:07:58] Peer 2 requested file v.mkv
+[16:08:03] Peer 2 requested file v.mkv
+[16:08:08] Peer 2 requested file v.mkv
+[16:08:13] Peer 2 requested file v.mkv
+[16:08:18] Peer 2 requested file v.mkv
+[16:08:23] Peer 2 requested file v.mkv
+[16:08:28] Peer 2 requested file v.mkv
+[16:08:29] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:08:33] Peer 2 requested file v.mkv
+[16:08:38] Peer 2 requested file v.mkv
+[16:08:43] Peer 2 requested file v.mkv
+[16:08:48] Peer 2 requested file v.mkv
+[16:08:53] Peer 2 requested file v.mkv
+[16:08:58] Peer 2 requested file v.mkv
+[16:09:01] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:09:03] Peer 2 requested file v.mkv
+[16:09:08] Peer 2 requested file v.mkv
+[16:09:13] Peer 2 requested file v.mkv
+[16:09:18] Peer 2 requested file v.mkv
+[16:09:23] Peer 2 requested file v.mkv
+[16:09:28] Peer 2 requested file v.mkv
+[16:09:33] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:09:33] Peer 2 requested file v.mkv
+[16:09:38] Peer 2 requested file v.mkv
+[16:09:43] Peer 2 requested file v.mkv
+[16:09:48] Peer 2 requested file v.mkv
+[16:09:53] Peer 2 requested file v.mkv
+[16:09:58] Peer 2 requested file v.mkv
+[16:10:03] Peer 2 requested file v.mkv
+[16:10:05] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:10:08] Peer 2 requested file v.mkv
+[16:10:13] Peer 2 requested file v.mkv
+[16:10:18] Peer 2 requested file v.mkv
+[16:10:23] Peer 2 requested file v.mkv
+[16:10:28] Peer 2 requested file v.mkv
+[16:10:33] Peer 2 requested file v.mkv
+[16:10:37] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[16:10:38] Peer 2 requested file v.mkv
+[16:10:43] Peer 2 requested file v.mkv
+[16:10:48] Peer 2 requested file v.mkv
+[16:10:53] Peer 2 requested file v.mkv
+[16:10:55] Peer 1 registered as owner of file v.mkv
+[16:10:58] Peer 2 requested file v.mkv
+[16:11:03] Peer 2 requested file v.mkv
+[16:11:08] Peer 2 requested file v.mkv
+[16:11:09] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:11:13] Peer 2 requested file v.mkv
+[16:11:18] Peer 2 requested file v.mkv
+[16:11:23] Peer 2 requested file v.mkv
+[16:11:28] Peer 2 requested file v.mkv
+[16:11:33] Peer 2 requested file v.mkv
+[16:11:38] Peer 2 requested file v.mkv
+[16:11:41] Peer(s) [2, 3] is in torrent and peer(s) [1] have left the torrent.
+[16:11:43] Peer 2 requested file v.mkv
+[16:11:48] Peer 2 requested file v.mkv
+[16:11:53] Peer 2 requested file v.mkv
+[16:11:59] Peer 2 requested file v.mkv
+[16:12:04] Peer 2 requested file v.mkv
+[16:12:09] Peer 2 requested file v.mkv
+[16:12:13] Peer(s) [2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:12:14] Peer 2 requested file v.mkv
+[16:12:19] Peer 2 requested file v.mkv
+[16:12:24] Peer 2 requested file v.mkv
+[16:12:29] Peer 2 requested file v.mkv
+[16:12:34] Peer 2 requested file v.mkv
+[16:12:39] Peer 2 requested file v.mkv
+[16:12:44] Peer 2 requested file v.mkv
+[16:12:45] Peer(s) [2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:12:49] Peer 2 requested file v.mkv
+[16:12:54] Peer 2 requested file v.mkv
+[16:12:59] Peer 2 requested file v.mkv
+[16:13:04] Peer 2 requested file v.mkv
+[16:13:09] Peer 2 requested file v.mkv
+[16:13:14] Peer 2 requested file v.mkv
+[16:13:17] Peer(s) [2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:13:19] Peer 2 requested file v.mkv
+[16:13:24] Peer 2 requested file v.mkv
+[16:13:29] Peer 2 requested file v.mkv
+[16:13:34] Peer 2 requested file v.mkv
+[16:13:39] Peer 2 requested file v.mkv
+[16:13:44] Peer 2 requested file v.mkv
+[16:13:49] Peer(s) [2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:13:49] Peer 2 requested file v.mkv
+[16:13:54] Peer 2 requested file v.mkv
+[16:13:59] Peer 2 requested file v.mkv
+[16:14:04] Peer 2 requested file v.mkv
+[16:14:09] Peer 2 requested file v.mkv
+[16:14:14] Peer 2 requested file v.mkv
+[16:14:19] Peer 2 requested file v.mkv
+[16:14:21] Peer(s) [2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:14:24] Peer 2 requested file v.mkv
+[16:14:29] Peer 2 requested file v.mkv
+[16:14:34] Peer 2 requested file v.mkv
+[16:14:39] Peer 2 requested file v.mkv
+[16:14:53] Peer(s) [2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:15:34] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[16:15:36] Peer 1 registered as owner of file v.mkv
+[16:15:41] Peer 2 requested file v.mkv
+[16:15:41] Peer 2 requested file v.mkv
+[16:15:41] Peer 2 requested file v.mkv
+[16:15:46] Peer 2 requested file v.mkv
+[16:15:51] Peer 2 requested file v.mkv
+[16:15:51] Peer 3 registered as owner of file v.mkv
+[16:15:56] Peer 2 requested file v.mkv
+[16:16:01] Peer 2 requested file v.mkv
+[16:16:06] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:16:06] Peer 2 requested file v.mkv
+[16:16:11] Peer 2 requested file v.mkv
+[16:16:16] Peer 2 requested file v.mkv
+[16:16:21] Peer 2 requested file v.mkv
+[16:16:26] Peer 2 requested file v.mkv
+[16:16:31] Peer 2 requested file v.mkv
+[16:16:36] Peer 2 requested file v.mkv
+[16:16:38] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:16:41] Peer 2 requested file v.mkv
+[16:16:46] Peer 2 requested file v.mkv
+[16:16:51] Peer 2 requested file v.mkv
+[16:16:56] Peer 2 requested file v.mkv
+[16:17:01] Peer 2 requested file v.mkv
+[16:17:06] Peer 2 requested file v.mkv
+[16:17:10] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:17:11] Peer 2 requested file v.mkv
+[16:17:16] Peer 2 requested file v.mkv
+[16:17:21] Peer 2 requested file v.mkv
+[16:17:26] Peer 2 requested file v.mkv
+[16:17:31] Peer 2 requested file v.mkv
+[16:17:36] Peer 2 requested file v.mkv
+[16:17:41] Peer 2 requested file v.mkv
+[16:17:42] Peer(s) [1, 2] is in torrent and peer(s) [3] have left the torrent.
+[16:17:46] Peer 2 requested file v.mkv
+[16:17:51] Peer 2 requested file v.mkv
+[16:17:56] Peer 2 requested file v.mkv
+[16:18:01] Peer 2 requested file v.mkv
+[16:18:06] Peer 2 requested file v.mkv
+[16:18:11] Peer 2 requested file v.mkv
+[16:18:14] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:18:16] Peer 2 requested file v.mkv
+[16:18:21] Peer 2 requested file v.mkv
+[16:18:26] Peer 2 requested file v.mkv
+[16:18:31] Peer 2 requested file v.mkv
+[16:18:36] Peer 2 requested file v.mkv
+[16:18:41] Peer 3 registered as owner of file v.mkv
+[16:18:41] Peer 2 requested file v.mkv
+[16:18:46] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:18:46] Peer 2 requested file v.mkv
+[16:18:52] Peer 2 requested file v.mkv
+[16:18:57] Peer 2 requested file v.mkv
+[16:19:02] Peer 2 requested file v.mkv
+[16:19:07] Peer 2 requested file v.mkv
+[16:19:12] Peer 2 requested file v.mkv
+[16:19:17] Peer 2 requested file v.mkv
+[16:19:18] Peer(s) [1, 2] is in torrent and peer(s) [3] have left the torrent.
+[16:19:22] Peer 2 requested file v.mkv
+[16:19:27] Peer 2 requested file v.mkv
+[16:19:32] Peer 2 requested file v.mkv
+[16:19:37] Peer 2 requested file v.mkv
+[16:19:42] Peer 2 requested file v.mkv
+[16:19:47] Peer 2 requested file v.mkv
+[16:19:50] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:19:52] Peer 2 requested file v.mkv
+[16:19:57] Peer 2 requested file v.mkv
+[16:20:02] Peer 2 requested file v.mkv
+[16:20:07] Peer 2 requested file v.mkv
+[16:20:12] Peer 2 requested file v.mkv
+[16:20:17] Peer 2 requested file v.mkv
+[16:20:22] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:20:22] Peer 2 requested file v.mkv
+[16:20:27] Peer 2 requested file v.mkv
+[16:23:07] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[16:23:09] Peer 1 registered as owner of file v.mkv
+[16:23:13] Peer 2 requested file v.mkv
+[16:23:13] Peer 2 requested file v.mkv
+[16:23:13] Peer 2 requested file v.mkv
+[16:23:19] Peer 2 requested file v.mkv
+[16:23:24] Peer 2 requested file v.mkv
+[16:23:29] Peer 2 requested file v.mkv
+[16:23:29] Peer 3 registered as owner of file v.mkv
+[16:23:34] Peer 2 requested file v.mkv
+[16:23:39] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:23:39] Peer 2 requested file v.mkv
+[16:23:44] Peer 2 requested file v.mkv
+[16:23:49] Peer 2 requested file v.mkv
+[16:23:54] Peer 2 requested file v.mkv
+[16:23:59] Peer 2 requested file v.mkv
+[16:24:04] Peer 2 requested file v.mkv
+[16:24:06] Peer 1 registered as owner of file v.mkv
+[16:24:09] Peer 2 requested file v.mkv
+[16:24:11] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:24:14] Peer 2 requested file v.mkv
+[16:24:19] Peer 2 requested file v.mkv
+[16:24:24] Peer 2 requested file v.mkv
+[16:24:29] Peer 2 requested file v.mkv
+[16:24:34] Peer 2 requested file v.mkv
+[16:24:39] Peer 2 requested file v.mkv
+[16:24:43] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[16:24:44] Peer 2 requested file v.mkv
+[16:24:49] Peer 2 requested file v.mkv
+[16:24:52] Peer 1 registered as owner of file v.mkv
+[16:24:54] Peer 2 requested file v.mkv
+[16:24:59] Peer 2 requested file v.mkv
+[16:25:04] Peer 2 requested file v.mkv
+[16:25:09] Peer 2 requested file v.mkv
+[16:25:14] Peer 2 requested file v.mkv
+[16:25:14] Peer(s) [2, 3] is in torrent and peer(s) [1] have left the torrent.
+[16:25:19] Peer 2 requested file v.mkv
+[16:25:24] Peer 2 requested file v.mkv
+[16:25:29] Peer 2 requested file v.mkv
+[16:25:34] Peer 2 requested file v.mkv
+[16:25:39] Peer 2 requested file v.mkv
+[16:25:44] Peer 2 requested file v.mkv
+[16:25:47] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:25:49] Peer 2 requested file v.mkv
+[16:25:54] Peer 2 requested file v.mkv
+[16:25:59] Peer 2 requested file v.mkv
+[16:26:04] Peer 2 requested file v.mkv
+[16:26:09] Peer 2 requested file v.mkv
+[16:26:14] Peer 2 requested file v.mkv
+[16:26:19] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:26:19] Peer 2 requested file v.mkv
+[16:26:24] Peer 2 requested file v.mkv
+[16:26:29] Peer 2 requested file v.mkv
+[16:26:34] Peer 2 requested file v.mkv
+[16:26:39] Peer 2 requested file v.mkv
+[16:26:44] Peer 2 requested file v.mkv
+[16:26:49] Peer 2 requested file v.mkv
+[16:26:51] Peer(s) [2] is in torrent and peer(s) [3] have left the torrent.
+[16:26:54] Peer 2 requested file v.mkv
+[16:26:59] Peer 2 requested file v.mkv
+[16:27:05] Peer 2 requested file v.mkv
+[16:27:10] Peer 2 requested file v.mkv
+[16:27:15] Peer 2 requested file v.mkv
+[16:27:20] Peer 2 requested file v.mkv
+[16:27:23] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:27:25] Peer 2 requested file v.mkv
+[16:27:30] Peer 2 requested file v.mkv
+[16:27:35] Peer 2 requested file v.mkv
+[16:27:40] Peer 2 requested file v.mkv
+[16:27:45] Peer 2 requested file v.mkv
+[16:27:50] Peer 2 requested file v.mkv
+[16:27:55] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:27:55] Peer 2 requested file v.mkv
+[16:28:00] Peer 2 requested file v.mkv
+[16:28:05] Peer 2 requested file v.mkv
+[16:28:10] Peer 2 requested file v.mkv
+[16:28:15] Peer 2 requested file v.mkv
+[16:28:20] Peer 2 requested file v.mkv
+[16:28:25] Peer 2 requested file v.mkv
+[16:28:26] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:28:30] Peer 2 requested file v.mkv
+[16:28:35] Peer 2 requested file v.mkv
+[16:28:40] Peer 2 requested file v.mkv
+[16:28:45] Peer 2 requested file v.mkv
+[16:28:50] Peer 2 requested file v.mkv
+[16:28:55] Peer 2 requested file v.mkv
+[16:28:59] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:29:00] Peer 2 requested file v.mkv
+[16:29:05] Peer 2 requested file v.mkv
+[16:29:10] Peer 2 requested file v.mkv
+[16:29:15] Peer 2 requested file v.mkv
+[16:29:20] Peer 2 requested file v.mkv
+[16:29:25] Peer 2 requested file v.mkv
+[16:29:30] Peer 2 requested file v.mkv
+[16:29:31] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:29:35] Peer 2 requested file v.mkv
+[16:31:46] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[16:31:57] Peer 2 requested file v.mkv
+[16:32:01] Peer 2 requested file v.mkv
+[16:32:06] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[16:32:15] Peer 1 registered as owner of file v.mp4
+[16:32:34] Peer 2 requested file v.mp4
+[16:32:34] Peer 2 requested file v.mp4
+[16:32:34] Peer 2 requested file v.mp4
+[16:32:38] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:32:39] Peer 2 requested file v.mp4
+[16:32:44] Peer 2 requested file v.mp4
+[16:32:49] Peer 2 requested file v.mp4
+[16:32:54] Peer 2 requested file v.mp4
+[16:32:59] Peer 2 requested file v.mp4
+[16:33:02] Peer 3 registered as owner of file v.mp4
+[16:33:04] Peer 2 requested file v.mp4
+[16:33:09] Peer 2 requested file v.mp4
+[16:33:10] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:33:14] Peer 2 requested file v.mp4
+[16:33:19] Peer 2 requested file v.mp4
+[16:33:24] Peer 2 requested file v.mp4
+[16:33:29] Peer 2 requested file v.mp4
+[16:33:34] Peer 2 requested file v.mp4
+[16:33:39] Peer 2 requested file v.mp4
+[16:33:42] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:33:44] Peer 2 requested file v.mp4
+[16:33:49] Peer 2 requested file v.mp4
+[16:33:54] Peer 2 requested file v.mp4
+[16:33:59] Peer 2 requested file v.mp4
+[16:34:04] Peer 2 requested file v.mp4
+[16:34:09] Peer 2 requested file v.mp4
+[16:34:14] Peer 2 requested file v.mp4
+[16:34:14] Peer(s) [1] is in torrent and peer(s) [3] have left the torrent.
+[16:34:19] Peer 2 requested file v.mp4
+[16:34:24] Peer 2 requested file v.mp4
+[16:34:29] Peer 2 requested file v.mp4
+[16:34:34] Peer 2 requested file v.mp4
+[16:34:39] Peer 2 requested file v.mp4
+[16:34:44] Peer 2 requested file v.mp4
+[16:34:46] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:34:49] Peer 2 requested file v.mp4
+[16:34:54] Peer 2 requested file v.mp4
+[16:34:59] Peer 2 requested file v.mp4
+[16:35:04] Peer 2 requested file v.mp4
+[16:35:09] Peer 2 requested file v.mp4
+[16:35:14] Peer 2 requested file v.mp4
+[16:35:18] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:35:19] Peer 2 requested file v.mp4
+[16:35:24] Peer 2 requested file v.mp4
+[16:35:29] Peer 2 requested file v.mp4
+[16:35:34] Peer 2 requested file v.mp4
+[16:35:40] Peer 2 requested file v.mp4
+[16:35:45] Peer 2 requested file v.mp4
+[16:35:50] Peer 2 requested file v.mp4
+[16:35:50] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:35:55] Peer 2 requested file v.mp4
+[16:38:19] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[16:38:21] Peer 1 registered as owner of file v.mp4
+[16:38:33] Peer 2 requested file v.mp4
+[16:38:33] Peer 2 requested file v.mp4
+[16:38:33] Peer 2 requested file v.mp4
+[16:38:38] Peer 2 requested file v.mp4
+[16:38:43] Peer 2 requested file v.mp4
+[16:38:48] Peer 2 requested file v.mp4
+[16:38:50] Peer 3 registered as owner of file v.mp4
+[16:38:51] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:38:53] Peer 2 requested file v.mp4
+[16:38:58] Peer 2 requested file v.mp4
+[16:39:03] Peer 2 requested file v.mp4
+[16:39:08] Peer 2 requested file v.mp4
+[16:39:13] Peer 2 requested file v.mp4
+[16:39:18] Peer 2 requested file v.mp4
+[16:39:23] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:39:23] Peer 2 requested file v.mp4
+[16:39:28] Peer 2 requested file v.mp4
+[16:39:33] Peer 2 requested file v.mp4
+[16:39:38] Peer 2 requested file v.mp4
+[16:39:43] Peer 2 requested file v.mp4
+[16:39:48] Peer 2 requested file v.mp4
+[16:39:53] Peer 2 requested file v.mp4
+[16:39:55] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:39:58] Peer 2 requested file v.mp4
+[16:40:03] Peer 2 requested file v.mp4
+[16:40:08] Peer 2 requested file v.mp4
+[16:40:14] Peer 2 requested file v.mp4
+[16:40:19] Peer 2 requested file v.mp4
+[16:40:24] Peer 2 requested file v.mp4
+[16:40:27] Peer(s) [1, 2] is in torrent and peer(s) [3] have left the torrent.
+[16:40:29] Peer 2 requested file v.mp4
+[16:40:34] Peer 2 requested file v.mp4
+[16:40:39] Peer 2 requested file v.mp4
+[16:40:44] Peer 2 requested file v.mp4
+[16:40:49] Peer 2 requested file v.mp4
+[16:40:54] Peer 2 requested file v.mp4
+[16:40:59] Peer 2 requested file v.mp4
+[16:40:59] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:41:04] Peer 2 requested file v.mp4
+[16:41:09] Peer 2 requested file v.mp4
+[16:41:14] Peer 2 requested file v.mp4
+[16:41:19] Peer 2 requested file v.mp4
+[16:47:44] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[16:47:50] Peer 1 registered as owner of file v.mp4
+[16:48:03] Peer 2 requested file v.mp4
+[16:48:03] Peer 2 requested file v.mp4
+[16:48:03] Peer 2 requested file v.mp4
+[16:48:08] Peer 2 requested file v.mp4
+[16:48:11] Peer 3 registered as owner of file v.mp4
+[16:48:13] Peer 2 requested file v.mp4
+[16:48:16] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:48:18] Peer 2 requested file v.mp4
+[16:48:23] Peer 2 requested file v.mp4
+[16:48:28] Peer 2 requested file v.mp4
+[16:48:33] Peer 2 requested file v.mp4
+[16:48:38] Peer 2 requested file v.mp4
+[16:48:48] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:48:58] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[16:49:02] Peer 1 registered as owner of file v.mp4
+[16:49:14] Peer 2 requested file v.mp4
+[16:49:14] Peer 2 requested file v.mp4
+[16:49:15] Peer 2 requested file v.mp4
+[16:49:20] Peer 2 requested file v.mp4
+[16:49:25] Peer 2 requested file v.mp4
+[16:49:30] Peer 3 registered as owner of file v.mp4
+[16:49:30] Peer 2 requested file v.mp4
+[16:49:30] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:49:35] Peer 2 requested file v.mp4
+[16:49:40] Peer 2 requested file v.mp4
+[16:49:45] Peer 2 requested file v.mp4
+[16:49:50] Peer 2 requested file v.mp4
+[16:49:55] Peer 2 requested file v.mp4
+[16:50:00] Peer 2 requested file v.mp4
+[16:50:02] Peer(s) [1, 2] is in torrent and peer(s) [3] have left the torrent.
+[16:50:05] Peer 2 requested file v.mp4
+[16:50:10] Peer 2 requested file v.mp4
+[16:50:15] Peer 2 requested file v.mp4
+[16:50:20] Peer 2 requested file v.mp4
+[16:50:25] Peer 2 requested file v.mp4
+[16:50:30] Peer 2 requested file v.mp4
+[16:50:34] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:50:35] Peer 2 requested file v.mp4
+[16:50:40] Peer 2 requested file v.mp4
+[16:50:45] Peer 2 requested file v.mp4
+[16:50:50] Peer 2 requested file v.mp4
+[16:50:54] Peer 3 registered as owner of file v.mp4
+[16:50:55] Peer 2 requested file v.mp4
+[16:51:00] Peer 2 requested file v.mp4
+[16:51:06] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:51:38] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:52:10] Peer(s) [1, 2] is in torrent and peer(s) [3] have left the torrent.
+[16:52:42] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:53:42] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[16:53:44] Peer 1 registered as owner of file v.mp4
+[16:53:48] Peer 2 requested file v.mp4
+[16:53:48] Peer 2 requested file v.mp4
+[16:53:48] Peer 2 requested file v.mp4
+[16:53:53] Peer 2 requested file v.mp4
+[16:53:53] Peer 3 registered as owner of file v.mp4
+[16:53:58] Peer 2 requested file v.mp4
+[16:54:03] Peer 2 requested file v.mp4
+[16:54:08] Peer 2 requested file v.mp4
+[16:54:13] Peer 2 requested file v.mp4
+[16:54:14] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:54:18] Peer 2 requested file v.mp4
+[16:54:23] Peer 2 requested file v.mp4
+[16:54:28] Peer 2 requested file v.mp4
+[16:54:33] Peer 2 requested file v.mp4
+[16:54:38] Peer 2 requested file v.mp4
+[16:54:43] Peer 2 requested file v.mp4
+[16:54:46] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:54:48] Peer 2 requested file v.mp4
+[16:54:53] Peer 2 requested file v.mp4
+[16:54:58] Peer 2 requested file v.mp4
+[16:55:03] Peer 2 requested file v.mp4
+[16:55:08] Peer 2 requested file v.mp4
+[16:55:13] Peer 2 requested file v.mp4
+[16:55:18] Peer(s) [1, 2] is in torrent and peer(s) [3] have left the torrent.
+[16:55:18] Peer 2 requested file v.mp4
+[16:55:23] Peer 2 requested file v.mp4
+[16:55:23] Peer 3 registered as owner of file v.mp4
+[16:55:28] Peer 2 requested file v.mp4
+[16:55:33] Peer 2 requested file v.mp4
+[16:55:38] Peer 2 requested file v.mp4
+[16:55:43] Peer 2 requested file v.mp4
+[16:55:48] Peer 2 requested file v.mp4
+[16:55:50] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:55:53] Peer 2 requested file v.mp4
+[16:55:58] Peer 2 requested file v.mp4
+[16:56:03] Peer 2 requested file v.mp4
+[16:56:08] Peer 2 requested file v.mp4
+[16:56:13] Peer 2 requested file v.mp4
+[16:56:19] Peer 2 requested file v.mp4
+[16:56:22] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:56:24] Peer 2 requested file v.mp4
+[16:56:29] Peer 2 requested file v.mp4
+[16:56:34] Peer 2 requested file v.mp4
+[16:56:39] Peer 2 requested file v.mp4
+[16:56:44] Peer 2 requested file v.mp4
+[16:56:49] Peer 2 requested file v.mp4
+[16:56:54] Peer 2 requested file v.mp4
+[16:56:54] Peer(s) [1, 2] is in torrent and peer(s) [3] have left the torrent.
+[16:56:59] Peer 2 requested file v.mp4
+[16:57:04] Peer 2 requested file v.mp4
+[16:57:10] Peer 2 registered as owner of file v.mp4
+[16:57:26] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:57:58] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[16:58:18] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[16:58:21] Peer 1 registered as owner of file v.mp4
+[16:58:24] Peer 2 requested file v.mp4
+[16:58:24] Peer 2 requested file v.mp4
+[16:58:24] Peer 2 requested file v.mp4
+[16:58:29] Peer 3 registered as owner of file v.mp4
+[16:58:29] Peer 2 requested file v.mp4
+[16:58:34] Peer 2 requested file v.mp4
+[16:58:39] Peer 2 requested file v.mp4
+[16:59:08] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[16:59:15] Peer 1 registered as owner of file l.pdf
+[16:59:31] Peer 2 requested file l.pdf
+[16:59:31] Peer 2 requested file l.pdf
+[16:59:31] Peer 2 requested file l.pdf
+[16:59:34] Peer 3 registered as owner of file l.pdf
+[16:59:36] Peer 2 requested file l.pdf
+[16:59:40] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[16:59:41] Peer 2 requested file l.pdf
+[16:59:46] Peer 2 requested file l.pdf
+[16:59:51] Peer 2 requested file l.pdf
+[16:59:56] Peer 2 requested file l.pdf
+[17:00:01] Peer 2 requested file l.pdf
+[17:00:06] Peer 2 requested file l.pdf
+[17:00:11] Peer 2 requested file l.pdf
+[17:00:12] Peer(s) [1] is in torrent and peer(s) [3] have left the torrent.
+[17:00:16] Peer 2 requested file l.pdf
+[17:00:21] Peer 2 requested file l.pdf
+[17:00:21] Peer 2 registered as owner of file l.pdf
+[20:10:40] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[20:10:57] Peer 1 registered as owner of file l.pdf
+[20:11:02] Peer 1 registered as owner of file v.mp4
+[20:11:09] Peer 2 requested file v.mp4
+[20:11:09] Peer 2 requested file v.mp4
+[20:11:09] Peer 2 requested file v.mp4
+[20:11:12] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[20:11:15] Peer 3 registered as owner of file v.mp4
+[20:12:02] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[20:12:05] Peer 1 registered as owner of file v.mp4
+[20:12:34] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[20:12:38] Peer 2 requested file v.mp4
+[20:12:38] Peer 2 requested file v.mp4
+[20:12:38] Peer 2 requested file v.mp4
+[20:12:43] Peer 2 requested file v.mp4
+[20:12:48] Peer 2 requested file v.mp4
+[20:12:53] Peer 2 requested file v.mp4
+[20:12:58] Peer 2 requested file v.mp4
+[20:13:03] Peer 2 requested file v.mp4
+[20:13:06] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[20:13:08] Peer 2 requested file v.mp4
+[20:13:13] Peer 2 requested file v.mp4
+[20:13:18] Peer 2 requested file v.mp4
+[20:13:20] Peer 3 registered as owner of file v.mp4
+[20:13:23] Peer 2 requested file v.mp4
+[20:13:29] Peer 2 requested file v.mp4
+[20:13:34] Peer 2 requested file v.mp4
+[20:13:38] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[20:13:39] Peer 2 requested file v.mp4
+[20:13:44] Peer 2 requested file v.mp4
+[20:13:49] Peer 2 requested file v.mp4
+[20:13:54] Peer 2 requested file v.mp4
+[20:13:59] Peer 2 requested file v.mp4
+[20:14:04] Peer 2 requested file v.mp4
+[20:14:09] Peer 2 requested file v.mp4
+[20:14:10] Peer(s) [1, 2] is in torrent and peer(s) [3] have left the torrent.
+[20:14:14] Peer 2 requested file v.mp4
+[20:14:19] Peer 2 requested file v.mp4
+[20:14:24] Peer 2 requested file v.mp4
+[20:14:29] Peer 2 requested file v.mp4
+[20:14:34] Peer 2 requested file v.mp4
+[20:14:36] Peer 1 registered as owner of file v.mp4
+[20:14:39] Peer 2 requested file v.mp4
+[20:14:42] Peer(s) [] is in torrent and peer(s) [1] have left the torrent.
+[20:14:44] Peer 2 requested file v.mp4
+[20:14:49] Peer 2 requested file v.mp4
+[20:14:54] Peer 2 requested file v.mp4
+[20:14:59] Peer 2 requested file v.mp4
+[20:15:04] Peer 1 registered as owner of file v.mp4
+[20:15:04] Peer 2 requested file v.mp4
+[20:15:09] Peer 2 requested file v.mp4
+[20:15:14] Peer 2 requested file v.mp4
+[20:15:14] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[20:15:19] Peer 2 requested file v.mp4
+[20:15:24] Peer 2 requested file v.mp4
+[20:15:29] Peer 2 requested file v.mp4
+[20:15:46] Peer(s) [2] is in torrent and peer(s) [3] have left the torrent.
+[20:16:18] Peer(s) [2] is in torrent and peer(s) [1] have left the torrent.
+[20:16:41] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[20:16:47] Peer 1 registered as owner of file l.pdf
+[20:17:03] Peer 3 registered as owner of file l.pdf
+[20:17:13] Peer(s) [1, 3, 4] is in torrent and peer(s) [] have left the torrent.
+[20:17:39] Peer 2 requested file l.pdf
+[20:17:39] Peer 2 requested file l.pdf
+[20:17:39] Peer 2 requested file l.pdf
+[20:17:44] Peer 2 requested file l.pdf
+[20:17:45] Peer(s) [1] is in torrent and peer(s) [4] have left the torrent.
+[20:17:49] Peer 2 requested file l.pdf
+[20:17:54] Peer 2 requested file l.pdf
+[20:17:59] Peer 2 requested file l.pdf
+[20:18:04] Peer 2 requested file l.pdf
+[20:18:09] Peer 2 requested file l.pdf
+[20:20:24] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[20:20:27] Peer 1 registered as owner of file l.pdf
+[20:20:30] Peer 3 registered as owner of file l.pdf
+[20:20:34] Peer 2 requested file l.pdf
+[20:20:34] Peer 2 requested file l.pdf
+[20:20:34] Peer 2 requested file l.pdf
+[20:20:39] Peer 2 requested file l.pdf
+[20:20:44] Peer 2 requested file l.pdf
+[20:20:49] Peer 2 requested file l.pdf
+[20:20:54] Peer 2 requested file l.pdf
+[20:20:56] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[20:20:59] Peer 2 requested file l.pdf
+[20:21:04] Peer 2 requested file l.pdf
+[20:21:09] Peer 2 requested file l.pdf
+[20:21:14] Peer 2 requested file l.pdf
+[20:21:28] Peer(s) [1] is in torrent and peer(s) [3] have left the torrent.
+[20:22:00] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[20:22:32] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[20:22:57] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[20:23:00] Peer 1 registered as owner of file l.pdf
+[20:23:02] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[20:23:03] Peer 3 registered as owner of file l.pdf
+[20:23:07] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[20:23:10] Peer 2 requested file l.pdf
+[20:23:10] Peer 2 requested file l.pdf
+[20:23:10] Peer 2 requested file l.pdf
+[20:23:12] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[20:23:15] Peer 2 requested file l.pdf
+[20:23:17] Peer(s) [1] is in torrent and peer(s) [3] have left the torrent.
+[20:23:20] Peer 2 requested file l.pdf
+[20:23:22] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[20:23:26] Peer 2 requested file l.pdf
+[20:23:27] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[20:23:31] Peer 2 requested file l.pdf
+[20:23:31] Peer 2 registered as owner of file l.pdf
+[20:23:32] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[20:23:37] Peer(s) [1] is in torrent and peer(s) [2] have left the torrent.
+[20:27:31] ========================================
+Tracker started at ['192.168.1.9', 8080]
+===================================================
+[20:27:34] Peer 1 registered as owner of file l.pdf
+[20:27:36] Peer(s) [1] is in torrent and peer(s) [] have left the torrent.
+[20:27:37] Peer 3 registered as owner of file l.pdf
+[20:27:41] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[20:27:46] Peer(s) [1, 3] is in torrent and peer(s) [2] have left the torrent.
+[20:27:51] Peer(s) [1, 3] is in torrent and peer(s) [] have left the torrent.
+[20:27:55] Peer 2 requested file l.pdf
+[20:27:55] Peer 2 requested file l.pdf
+[20:27:55] Peer 2 requested file l.pdf
+[20:27:56] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[20:28:00] Peer 2 requested file l.pdf
+[20:28:01] Peer(s) [1, 2, 3] is in torrent and peer(s) [] have left the torrent.
+[20:28:05] Peer 2 requested file l.pdf
+[20:28:06] Peer(s) [1] is in torrent and peer(s) [3] have left the torrent.
+[20:28:10] Peer 2 requested file l.pdf
+[20:28:11] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[20:28:15] Peer 2 requested file l.pdf
+[20:28:15] Peer 2 registered as owner of file l.pdf
+[20:28:16] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[20:28:21] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[20:28:26] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.
+[20:28:31] Peer(s) [1, 2] is in torrent and peer(s) [] have left the torrent.

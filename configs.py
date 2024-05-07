@@ -23,6 +23,7 @@ CFG = {
     "directory": {
         "logs_dir": "logs/",
         "peer_files_dir": "peer_files/",
+        "peer_chunklog_dir": "peer_chunklog/",
         "tracker_db_dir": "tracker_db/",
     },
     "constants": {
@@ -32,8 +33,9 @@ CFG = {
         "BUFFER_SIZE": 8192,
         "CHUNK_PIECES_SIZE": 4096,
         "MAX_CONCURRENT_REQUESTS": 3,
-        "PEER_TIME_INTERVAL": 30,
-        "TRACKER_TIME_INTERVAL": 32,
+        "PEER_TIME_INTERVAL": 5,
+        "TRACKER_TIME_INTERVAL": 5,
+        "CHUNK_SIZE": 2048*1024,
     },
     "tracker_requests_mode": {
         "REGISTER": 0,

@@ -45,10 +45,13 @@ class Tracker:
         found = False
         current_owners = [json.loads(entry) for entry in self.file_owners_list[msg["filename"]]]
         for json_entry in current_owners:
-            if json_entry["peer_id"] == msg["peer_id"] and json_entry["status"] != status:
-                json_entry["status"] = status
-                found = True
-                break
+            if json_entry["peer_id"] == msg["peer_id"]:
+                if json_entry["status"] != status:
+                    json_entry["status"] = status
+                    found = True
+                    break
+                else:
+                    return
         if not found:
             self.file_owners_list[msg['filename']].append(json.dumps(entry))
             self.file_owners_list[msg['filename']] = list(set(self.file_owners_list[msg['filename']]))
@@ -68,8 +71,7 @@ class Tracker:
         matched_entries = []
         for json_entry in self.file_owners_list[msg["filename"]]:
             entry = json.loads(json_entry)
-            if entry["status"] == 'seeder':
-                matched_entries.append((entry, self.send_freq_list[entry["peer_id"]]))
+            matched_entries.append((entry, self.send_freq_list[entry["peer_id"]]))
         
         tracker_response = Tracker2Peer(dest_peer_id = msg["peer_id"],
                                         search_results = matched_entries,
