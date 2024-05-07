@@ -188,6 +188,11 @@ class Peer:
         dest_peer = file_owner[0]
         temp_port = generate_random_port()
         receive_socket = set_socket(temp_port)
+        # if (self.peer_id, dest_peer["peer_id"], filename) not in self.receive_sockets.keys():
+        #     temp_port = generate_random_port()
+        #     temp_sock = set_socket(temp_port)
+        #     self.receive_sockets[(self.peer_id, dest_peer["peer_id"], filename)] = temp_sock
+        # receive_socket = self.receive_sockets[(self.peer_id, dest_peer["peer_id"], filename)]
 
         for idx, rng in enumerate(self.download_status[filename]["chunks_ranges"]):
             if self.download_status[filename]["bitfield"][idx] == 0 and \
@@ -379,7 +384,11 @@ class Peer:
                 new_owners = [x for x in owners if x not in self.download_status[filename]["to_be_used_owners"]]
                 removed_owners = [x for x in self.download_status[filename]["to_be_used_owners"] if x not in owners]
                 if len(removed_owners) > 0:
-                    [self.download_status[filename]["to_be_used_owners"].remove(x) for x in removed_owners]
+                    print(f"Removed owners: {removed_owners}")
+                    print(f"Current owners: {self.download_status[filename]['to_be_used_owners']}")
+                    for x in removed_owners:
+                        print(x)
+                        self.download_status[filename]["to_be_used_owners"].remove(x)
                 if len(new_owners) > 0:
                     if len(self.download_status[filename]["to_be_used_owners"]) == 0:
                         self.download_status[filename]["is_downloading"] = [0] * len(self.download_status[filename]["is_downloading"])
@@ -432,8 +441,8 @@ class Peer:
 
     def inform_tracker_periodically(self, interval):
         global next_call
-        log_content = f"I am informing the tracker that I am still alive."
-        log(peer_id = self.peer_id, content = log_content)
+        # log_content = f"I am informing the tracker that I am still alive."
+        # log(peer_id = self.peer_id, content = log_content)
 
         mess = Peer2Tracker(peer_id=self.peer_id,
                             mode=config.tracker_requests_mode.REGISTER)

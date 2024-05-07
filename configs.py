@@ -33,9 +33,9 @@ CFG = {
         "BUFFER_SIZE": 8192,
         "CHUNK_PIECES_SIZE": 4096,
         "MAX_CONCURRENT_REQUESTS": 3,
-        "PEER_TIME_INTERVAL": 5,
-        "TRACKER_TIME_INTERVAL": 5,
-        "CHUNK_SIZE": 2048*1024,
+        "PEER_TIME_INTERVAL": 3,
+        "TRACKER_TIME_INTERVAL": 4,
+        "CHUNK_SIZE": 512*1024,
     },
     "tracker_requests_mode": {
         "REGISTER": 0,
