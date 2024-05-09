@@ -197,6 +197,7 @@ class Peer:
         for idx, rng in enumerate(self.download_status[filename]["chunks_ranges"]):
             if self.download_status[filename]["bitfield"][idx] == 0 and \
             self.download_status[filename]["is_downloading"][idx] == 0:
+                self.download_status[filename]["is_downloading"][idx] = 1
                 mess = ChunkSharing(src_peer_id=self.peer_id,
                                     dest_peer_id=dest_peer["peer_id"],
                                     filename=filename,
@@ -206,15 +207,18 @@ class Peer:
                                 data=mess.encode(),
                                 addr=tuple(dest_peer["addr"]))
                 received_chunks = []
+                print(f"Peer {dest_peer['peer_id']} is sending chunk {idx}")
 
-                data, addr = receive_socket.recvfrom(config.constants.BUFFER_SIZE)
-                mess = Message.decode(data)
-                if mess["idx"] == -2 or self.download_status[filename]["is_downloading"][idx] == 1:
-                    continue
-                else:
-                    self.download_status[filename]["is_downloading"][idx] = 1
-                received_chunks.append(mess)
-                self.downloaded_files[filename].append(mess)
+                # data, addr = receive_socket.recvfrom(config.constants.BUFFER_SIZE)
+                # mess = Message.decode(data)
+                # if mess["idx"] == -2 or self.download_status[filename]["is_downloading"][idx] == 1:
+                #     print("Damn")
+                #     continue
+                # else:
+                #     print(f"Peer {dest_peer['peer_id']} is sending chunk {idx}")
+                #     self.download_status[filename]["is_downloading"][idx] = 1
+                # received_chunks.append(mess)
+                # self.downloaded_files[filename].append(mess)
                 while True:
                     data, addr = receive_socket.recvfrom(config.constants.BUFFER_SIZE)
                     mess = Message.decode(data)
@@ -229,6 +233,8 @@ class Peer:
                 with open(log_file_path, 'ab') as log_file:
                     pickle.dump((received_chunks, idx), log_file)
                 self.download_status[filename]["bitfield"][idx] = 1
+                self.download_status[filename]["progress"].update(1)
+        print("Peer {dest_peer['peer_id']} has go through all bits")
         self.download_status[filename]["to_be_used_owners"].remove(file_owner)
 
         free_socket(receive_socket)
@@ -307,6 +313,8 @@ class Peer:
                 "downloaded": False
             }
             self.load_chunks_from_log(filename, log_file_path)
+        self.download_status[filename]["progress"] = tqdm(total = len(self.download_status[filename]["bitfield"]))
+        self.download_status[filename]["progress"].update(sum(self.download_status[filename]["bitfield"]))
         neighboring_peers_threads = []
         # with tqdm(total = file_size) as pbar:
 
@@ -379,7 +387,7 @@ class Peer:
             self.split_file_owners(file_owners, filename, isFirst=True)
             while not self.download_status[filename]["downloaded"]:
                 bf = self.download_status[filename]["bitfield"]
-                print(f"still downloading {sum(bf) / len(bf) * 100}%")  
+                # print(f"still downloading {sum(bf) / len(bf) * 100}%")  
                 tracker_response = self.search_torrent(filename)
                 file_owners = tracker_response["search_results"]
                 owners = [x for x in file_owners if x[0]["peer_id"] != self.peer_id]
@@ -392,8 +400,8 @@ class Peer:
                         print(x)
                         self.download_status[filename]["to_be_used_owners"].remove(x)
                 if len(new_owners) > 0:
-                    if len(self.download_status[filename]["to_be_used_owners"]) == 0:
-                        self.download_status[filename]["is_downloading"] = [0] * len(self.download_status[filename]["is_downloading"])
+                    # if len(self.download_status[filename]["to_be_used_owners"]) == 0:
+                    self.download_status[filename]["is_downloading"] = [0] * len(self.download_status[filename]["is_downloading"])
                     self.download_status[filename]["to_be_used_owners"] += new_owners
                     self.split_file_owners(new_owners, filename)
                 time.sleep(5)
