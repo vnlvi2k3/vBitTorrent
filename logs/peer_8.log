@@ -117,3 +117,13 @@ Peer 8 started just right now
 [12:24:12] I sent request for a chunk of file v.mkv to peer 1
 [12:24:12] I sent request for a chunk of file v.mkv to peer 1
 [12:24:12] I sent request for a chunk of file v.mkv to peer 2
+[15:08:51] ========================================
+Peer 8 started just right now
+===================================================
+[15:08:51] You have entered the torrent
+[15:09:07] You are now DOWNLOADING the file sach.pdf
+[15:09:07] You are going to download the file sach.pdf from [3]
+[15:09:07] The size of the file sach.pdf is 25528314 bytes
+[15:09:12] All chunks of file sach.pdf have been downloaded, but they must be REASSEMBLED
+[15:09:12] All chunks of file sach.pdf have been SORTED, they are almost ready to be REASSEMBLED
+[15:09:12] The file sach.pdf has been downloaded and saved

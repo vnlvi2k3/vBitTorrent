@@ -36,3 +36,59 @@ Peer 9 started just right now
 [12:29:21] The size of the file v.mkv is 1548103894 bytes
 [12:29:21] I sent request for a chunk of file v.mkv to peer 1
 [12:29:23] I am informing the tracker that I am still alive.
+[16:30:39] ========================================
+Peer 9 started just right now
+===================================================
+[16:30:39] You have entered the torrent
+[16:32:46] ========================================
+Peer 9 started just right now
+===================================================
+[16:32:46] You have entered the torrent
+[16:33:29] You are now DOWNLOADING the file t.mkv
+[16:33:29] You are going to download the file t.mkv from [1]
+[16:33:29] The size of the file t.mkv is 50861580 bytes
+[16:36:18] ========================================
+Peer 9 started just right now
+===================================================
+[16:36:18] You have entered the torrent
+[16:36:19] You are now DOWNLOADING the file t.mkv
+[16:36:19] No other peer has the file t.mkv
+[16:36:22] ========================================
+Peer 9 started just right now
+===================================================
+[16:36:22] You have entered the torrent
+[16:36:23] You are now DOWNLOADING the file t.mkv
+[16:36:23] No other peer has the file t.mkv
+[16:36:31] ========================================
+Peer 9 started just right now
+===================================================
+[16:36:31] You have entered the torrent
+[16:36:32] You are now DOWNLOADING the file t.mkv
+[16:36:32] No other peer has the file t.mkv
+[16:36:43] ========================================
+Peer 9 started just right now
+===================================================
+[16:36:43] You have entered the torrent
+[16:36:44] You are now DOWNLOADING the file t.mkv
+[16:36:44] No other peer has the file t.mkv
+[16:36:50] ========================================
+Peer 9 started just right now
+===================================================
+[16:36:50] You have entered the torrent
+[16:37:30] You are now DOWNLOADING the file t.mkv
+[16:37:30] You are going to download the file t.mkv from [1]
+[16:37:30] The size of the file t.mkv is 50861580 bytes
+[16:37:40] All chunks of file t.mkv have been downloaded, but they must be REASSEMBLED
+[16:37:40] All chunks of file t.mkv have been SORTED, they are almost ready to be REASSEMBLED
+[16:37:40] The file t.mkv has been downloaded and saved
+[16:43:35] ========================================
+Peer 9 started just right now
+===================================================
+[16:43:35] You have entered the torrent
+[16:44:03] You are now DOWNLOADING the file sach.pdf
+[16:44:03] You are going to download the file sach.pdf from [4]
+[16:44:03] The size of the file sach.pdf is 25479162 bytes
+[16:46:08] ========================================
+Peer 9 started just right now
+===================================================
+[16:46:08] You have entered the torrent

@@ -45,3 +45,13 @@ Peer 10 started just right now
 [14:09:38] I am informing the tracker that I am still alive.
 [14:10:08] I am informing the tracker that I am still alive.
 [14:10:38] I am informing the tracker that I am still alive.
+[17:00:48] ========================================
+Peer 10 started just right now
+===================================================
+[17:00:48] You have entered the torrent
+[17:00:58] You are now DOWNLOADING the file CHAP5.pdf
+[17:00:58] You are going to download the file CHAP5.pdf from [1, 4]
+[17:00:58] The size of the file CHAP5.pdf is 6389067 bytes
+[17:01:03] All chunks of file CHAP5.pdf have been downloaded, but they must be REASSEMBLED
+[17:01:03] All chunks of file CHAP5.pdf have been SORTED, they are almost ready to be REASSEMBLED
+[17:01:03] The file CHAP5.pdf has been downloaded and saved

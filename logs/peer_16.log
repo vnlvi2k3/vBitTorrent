@@ -1,0 +1,41 @@
+[17:47:04] ========================================
+Peer 16 started just right now
+===================================================
+[17:47:04] You have entered the torrent
+[17:47:16] You are now DOWNLOADING the file t.mkv
+[17:47:17] You are going to download the file t.mkv from [4]
+[17:47:17] The size of the file t.mkv is 50980364 bytes
+[17:50:13] ========================================
+Peer 16 started just right now
+===================================================
+[17:50:13] You have entered the torrent
+[17:50:27] You are now DOWNLOADING the file t.mkv
+[17:50:30] ========================================
+Peer 16 started just right now
+===================================================
+[17:50:30] You have entered the torrent
+[17:50:31] You are now DOWNLOADING the file t.mkv
+[17:50:32] You are going to download the file t.mkv from [1, 4]
+[17:50:32] The size of the file t.mkv is 50980364 bytes
+[17:51:21] ========================================
+Peer 16 started just right now
+===================================================
+[17:51:21] You have entered the torrent
+[17:51:22] You are now DOWNLOADING the file t.mkv
+[17:51:22] You are going to download the file t.mkv from [1, 4]
+[17:51:22] The size of the file t.mkv is 50980364 bytes
+[17:52:53] All chunks of file t.mkv have been downloaded, but they must be REASSEMBLED
+[17:52:53] All chunks of file t.mkv have been SORTED, they are almost ready to be REASSEMBLED
+[17:52:53] The file t.mkv has been downloaded and saved
+[17:54:35] You are now DOWNLOADING the file CHAP5.pdf
+[17:54:35] You are going to download the file CHAP5.pdf from [1]
+[17:54:35] The size of the file CHAP5.pdf is 6389067 bytes
+[17:54:40] All chunks of file CHAP5.pdf have been downloaded, but they must be REASSEMBLED
+[17:54:40] All chunks of file CHAP5.pdf have been SORTED, they are almost ready to be REASSEMBLED
+[17:54:40] The file CHAP5.pdf has been downloaded and saved
+[17:55:23] You are now DOWNLOADING the file m.pdf
+[17:55:23] You are going to download the file m.pdf from [1]
+[17:55:23] The size of the file m.pdf is 48422997 bytes
+[17:55:28] All chunks of file m.pdf have been downloaded, but they must be REASSEMBLED
+[17:55:28] All chunks of file m.pdf have been SORTED, they are almost ready to be REASSEMBLED
+[17:55:28] The file m.pdf has been downloaded and saved
