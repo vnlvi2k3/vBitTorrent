@@ -30,6 +30,7 @@ class Peer:
         self.downloaded_files = {}
         self.send_sockets = {}
         self.receive_sockets = {}
+        self.send_thread = {}
 
     def send_segment(self, sock, data, addr):
         ip, dest_port = addr
@@ -116,6 +117,15 @@ class Peer:
             msg = Message.decode(data)
             self.handle_requests(msg, addr)
 
+    def handle_first_request(self):
+        msg, addr = self.send_socket.recvfrom(config.constants.BUFFER_SIZE)
+        msg = Message.decode(msg)
+        if "size" in msg.keys() and msg["size"] == -1:
+            self.tell_file_size(msg, addr)
+            thread = Thread(target=self.listen, args=())
+            thread.setDaemon(True)
+            thread.start()
+
     def set_send_mode(self, filename):
         if filename not in self.files:
             log_content = f"You don't own the file {filename}"
@@ -146,7 +156,7 @@ class Peer:
             self.is_in_send_mode = True
             log_content = f"You are now in SEND mode"
             log(peer_id = self.peer_id, content = log_content)
-            thread = Thread(target=self.listen)
+            thread = Thread(target=self.handle_first_request, args=())
             thread.setDaemon(True)
             thread.start()
 
@@ -378,6 +388,8 @@ class Peer:
             file_owners = tracker_response["search_results"]
             self.split_file_owners(file_owners, filename, isFirst=True)
             while not self.download_status[filename]["downloaded"]:
+                bf = self.download_status[filename]["bitfield"]
+                print(f"still downloading {sum(bf) / len(bf) * 100}%")  
                 tracker_response = self.search_torrent(filename)
                 file_owners = tracker_response["search_results"]
                 owners = [x for x in file_owners if x[0]["peer_id"] != self.peer_id]
